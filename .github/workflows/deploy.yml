@@ -15,27 +15,19 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Fetch all history for git info
-      - uses: actions/setup-node@v4
-      - name: Install Dependencies
-        run: npm ci
-      # do i need to change this line?
-      # attempted to just comment out, didn't work
-      # try the local directory
-      - name: Build Quartz
-        run: npx quartz build --directory=../digital-garden
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
   deploy:
-    needs: build
+    needs: deploy
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
