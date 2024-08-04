@@ -25,9 +25,10 @@ jobs:
       - name: Install Dependencies
         run: npm ci
       # do i need to change this line?
-      # attempting to edit by just commenting out, don't need to rebuild...
-      #- name: Build Quartz
-      #  run: npx quartz build
+      # attempted to just comment out, didn't work
+      # try the local directory
+      - name: Build Quartz
+        run: npx quartz build --directory=../digital-garden
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
