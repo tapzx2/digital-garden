@@ -1,13 +1,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://quartz.jzhao.xyz/Folder/stuff-in-folder</loc>
+    <lastmod>2024-08-05T09:26:20.247Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2024-08-04T05:22:59.950Z</lastmod>
+    <lastmod>2024-08-05T09:25:55.756Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/normal-quartz/Folder/stuff-in-folder</loc>
-    <lastmod>2024-08-05T09:25:39.933Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/normal-quartz/</loc>
-    <lastmod>2024-08-05T09:24:14.677Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/normal-quartz/linked-file</loc>
-    <lastmod>2024-08-05T09:25:26.366Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/linked-file</loc>
+    <lastmod>2024-08-05T09:25:26.365Z</lastmod>
   </url></urlset>

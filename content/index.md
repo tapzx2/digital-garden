@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Welcome
 ---
+This is what will work when publishing Quartz on github pages.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[linked file]]
+
+[[stuff in folder]]
