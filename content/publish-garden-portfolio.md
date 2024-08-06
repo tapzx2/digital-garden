@@ -13,19 +13,25 @@ source:
 	- [adjustment to publishing with quartz for maximum efficiency ](https://oliverfalvai.com/evergreen/my-quartz-+-obsidian-note-publishing-setup)
 - 
 
+
+## Log
+[[2024-08-06]] Unsure about customizing technology I know little about or if help will arrive. Attempting to use quartz in normal way, but writing terminal script to copy files tagged `public` to quartz to automate process.
+
+[[2024-08-05]] joined discord group, made contact with Oliver. He offered suggestions. Didn't work. Wrote detailed question to clarify.
+
+[[2024-08-04]] issue with blending github publish and maximum efficiency work. Private messaged Oliver on [Mastodon](https://mastodon.social/@tapianicholas)
+
+## Resources
+quick git refresher: https://rogerdudler.github.io/git-guide/
+
+## Process Test and Attempt for Continuous Integration
+
 when updating, from `quartz` folder run:
 `npx quartz sync --directory=../digital-garden`
 
 when local testing run:
 `npx quartz build --directory=../digital-garden --serve`
 
-## Log
-[[2024-08-04]] issue with blending github publish and maximum efficiency work. Private messaged Oliver on [Mastodon](https://mastodon.social/@tapianicholas)
-
-## Resources
-quick git refresher: https://rogerdudler.github.io/git-guide/
-
-## Process
 local test no problem.
 `npx quartz build --directory=../digital-garden --serve
 - works great locally!
