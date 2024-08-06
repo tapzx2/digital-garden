@@ -6,23 +6,29 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>stuff in folder</title>
-    <link>https://quartz.jzhao.xyz/Folder/stuff-in-folder</link>
-    <guid>https://quartz.jzhao.xyz/Folder/stuff-in-folder</guid>
-    <description>hello world media: .</description>
-    <pubDate>Mon, 05 Aug 2024 09:26:20 GMT</pubDate>
-  </item><item>
-    <title>Welcome</title>
+    <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>This is what will work when publishing Quartz on github pages. linked file stuff in folder.</description>
-    <pubDate>Mon, 05 Aug 2024 09:25:55 GMT</pubDate>
+    <description>this is the home page LA Style Shag Warmup.</description>
+    <pubDate>Sun, 04 Aug 2024 08:01:28 GMT</pubDate>
   </item><item>
-    <title>linked file</title>
-    <link>https://quartz.jzhao.xyz/linked-file</link>
-    <guid>https://quartz.jzhao.xyz/linked-file</guid>
-    <description></description>
-    <pubDate>Mon, 05 Aug 2024 09:25:26 GMT</pubDate>
+    <title>content in folder</title>
+    <link>https://quartz.jzhao.xyz/Folder/content-in-folder</link>
+    <guid>https://quartz.jzhao.xyz/Folder/content-in-folder</guid>
+    <description>hell0 world.</description>
+    <pubDate>Sun, 04 Aug 2024 07:07:50 GMT</pubDate>
+  </item><item>
+    <title>Making more content</title>
+    <link>https://quartz.jzhao.xyz/Making-more-content</link>
+    <guid>https://quartz.jzhao.xyz/Making-more-content</guid>
+    <description>test content.</description>
+    <pubDate>Sun, 04 Aug 2024 05:48:30 GMT</pubDate>
+  </item><item>
+    <title>LA Style Shag Warmup</title>
+    <link>https://quartz.jzhao.xyz/LA-Style-Shag-Warmup</link>
+    <guid>https://quartz.jzhao.xyz/LA-Style-Shag-Warmup</guid>
+    <description>0:25 skates 0:36 fish out of water 0:46 harvey wallbanger 0:56 bunny hops 1:08 fall off the log 1:19 breaks.</description>
+    <pubDate>Fri, 26 Jul 2024 10:00:02 GMT</pubDate>
   </item>
     </channel>
   </rss>
