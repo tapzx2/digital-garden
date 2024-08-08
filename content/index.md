@@ -8,7 +8,7 @@ Hello! Welcome to my personal site.
 Projects
 - [[How This Site Is Published]]
 - [[Learn Collegiate Shag]]
-- [[Small Art and Design Projects]]
+- [[Art and Design Projects]]
 
 Socials
 - https://www.instagram.com/tapia.nicholas/

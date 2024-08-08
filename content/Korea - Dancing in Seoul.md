@@ -11,9 +11,11 @@ Issues
 - I forget what I do on which day.
 - The calendar schedules are overwhelming + links don't always work.
 - The internet is slow out of the house (map and calendars). Not easy to reference.
+
 Want
 - Easy reference that's fast.
 - The reference is easily updated and fun to make.
+
 Solution
 - A map calendar.
 ### Design

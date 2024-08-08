@@ -8,7 +8,7 @@ Obsidan, Quartz, and Github pages are used.
 
 I didn't want to mess with copying files to the `content` folder of Quartz since it would add significant friction.
 
-[Oliver Falvai](https://oliverfalvai.com/evergreen/my-quartz-+-obsidian-note-publishing-setup) had a nice way of doing this but I couldn't get it to work. [[How This Site Is Published#Process Test and Attempt for Continuous Integration|see tests]]
+[Oliver Falvai](https://oliverfalvai.com/evergreen/my-quartz-+-obsidian-note-publishing-setup) had a nice way of doing this but it didn't work for me.
 
 Decided on using `bash`, something I'm more familiar with, to get it done. [[scan-for-markdown-code-display-page|see code]]
 ## Log
@@ -26,8 +26,12 @@ LINES: "11-13"
 TITLE: "scan for markdown test" 
 ```
 ![[Screen Shot 2024-08-08 at 12.48.54 PM.jpg]]
+
+added [[Korea - Dancing in Seoul]]
+
 Updates needed:
 - bundle `find-markdown.sh` and `npx sync quartz`
+- update design of site
 
 [[2024-08-06]] Unsure about customizing technology I know little about or if help will arrive. Attempting to use quartz in normal way, but writing terminal script to copy files tagged `public` to quartz to automate process. Script works. Updates needed: 
 - alerts on linked files that aren't public?
