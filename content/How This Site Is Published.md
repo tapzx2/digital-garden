@@ -8,9 +8,9 @@ Obsidan, Quartz, and Github pages are used.
 
 I didn't want to mess with copying files to the `content` folder of Quartz since it would add significant friction.
 
-[Oliver Falvai](https://oliverfalvai.com/evergreen/my-quartz-+-obsidian-note-publishing-setup) had a nice way of doing this but I couldn't get it to work. [[publish-garden-portfolio-website#Process Test and Attempt for Continuous Integration|see tests]]
+[Oliver Falvai](https://oliverfalvai.com/evergreen/my-quartz-+-obsidian-note-publishing-setup) had a nice way of doing this but I couldn't get it to work. [[How This Site Is Published#Process Test and Attempt for Continuous Integration|see tests]]
 
-Decided on using `zsh`, something I'm more familiar with, to get it done. [[scan-for-markdown-code-display-page|see code]]
+Decided on using `bash`, something I'm more familiar with, to get it done. [[scan-for-markdown-code-display-page|see code]]
 ## Log
 
 [[2024-08-08]] Working on media links. Oops! Unending loop on @RyanMarin file. Because self-linked. Since scanning whole vault, no recursion is needed. Think about process, design, and performance. Maybe add back in, maybe. Fixed media links, was greedy a regex issue.
@@ -18,26 +18,29 @@ Decided on using `zsh`, something I'm more familiar with, to get it done. [[scan
 share code question
 - ha, found same idea. scan vault for publish tag https://www.ssp.sh/brain/public-second-brain-with-quartz/
 - interesting but no https://forum.obsidian.md/t/raw-embed-of-javascript-into-a-code-block/47950/3 
-- plugin option Embed Code - totally works!
+- plugin option Embed Code - works locally, but not in publish process... I can use the embed for easy copy and paste but something tells me it isn't going to be possible or easy. If I return to coding I should probably be using github anyway. Moving on.
 
 ```embed-bash
 PATH: "vault://code/obsidian-publishing/scan-for-mkdown.sh"
 LINES: "11-13"
 TITLE: "scan for markdown test" 
 ```
+![[Screen Shot 2024-08-08 at 12.48.54 PM.jpg]]
+Updates needed:
+- bundle `find-markdown.sh` and `npx sync quartz`
 
 [[2024-08-06]] Unsure about customizing technology I know little about or if help will arrive. Attempting to use quartz in normal way, but writing terminal script to copy files tagged `public` to quartz to automate process. Script works. Updates needed: 
-- alerts on linked files that aren't public
+- alerts on linked files that aren't public?
 - fix search, copy, and linking of media files - done
 - set grep search to `- public` instead of just `public`. An author or source name may have that. Or location. - done
 Question:
-- how to share code? not markdown and not front-matter. does quartz support this?
+- how to share code? not markdown and not front-matter. does quartz support this? - done
 
 [[2024-08-05]] joined discord group, made contact with Oliver. He offered suggestions. Didn't work. Wrote detailed question to clarify.
 
 [[2024-08-04]] issue with blending github publish and maximum efficiency work. Private messaged Oliver on [Mastodon](https://mastodon.social/@tapianicholas)
 
-[[2024-08-03]] Started research and work, see [[publish-garden-portfolio-website#Process Test and Attempt for Continuous Integration]]
+[[2024-08-03]] Started research and work, see [[How This Site Is Published#Process Test and Attempt for Continuous Integration]]
 ## Process Test and Attempt for Continuous Integration
 
 when updating, from `quartz` folder run:

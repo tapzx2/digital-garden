@@ -6,8 +6,9 @@ title: Welcome!
 Hello! Welcome to my personal site.
 
 Projects
+- [[How This Site Is Published]]
 - [[Learn Collegiate Shag]]
-- [[publish-garden-portfolio-website]]
+- [[Small Art and Design Projects]]
 
 Socials
 - https://www.instagram.com/tapia.nicholas/
