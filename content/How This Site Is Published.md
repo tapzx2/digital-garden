@@ -13,6 +13,8 @@ I didn't want to mess with copying files to the `content` folder of Quartz since
 Decided on using `bash`, something I'm more familiar with, to get it done. [[scan-for-markdown-code-display-page|see code]]
 ## Log
 
+[[2024-08-09]] Issue with image files that have custom display i.e. `![[urban-garden-japan.jpg|300]]`.  How to solve this? v1 would be remove the `|300` so it be uploaded at all. v2 would be to figure out how to reincorporate it into the site display. Close to having enough things to track to implement an issue tracker: https://github.com/ljavuras/obsidian-power-tools/tree/main/Issue%20Tracker
+
 [[2024-08-08]] Working on media links. Oops! Unending loop on @RyanMarin file. Because self-linked. Since scanning whole vault, no recursion is needed. Think about process, design, and performance. Maybe add back in, maybe. Fixed media links, was greedy a regex issue.
 
 share code question
@@ -28,10 +30,11 @@ TITLE: "scan for markdown test"
 ![[Screen Shot 2024-08-08 at 12.48.54 PM.jpg]]
 
 added [[Korea - Dancing in Seoul]]
+added [[Garden Design]]
 
-Updates needed:
+Updates wanted:
 - bundle `find-markdown.sh` and `npx sync quartz`
-- update design of site
+- update css design of site
 
 [[2024-08-06]] Unsure about customizing technology I know little about or if help will arrive. Attempting to use quartz in normal way, but writing terminal script to copy files tagged `public` to quartz to automate process. Script works. Updates needed: 
 - alerts on linked files that aren't public?
