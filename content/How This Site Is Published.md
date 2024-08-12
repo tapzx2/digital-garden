@@ -1,6 +1,7 @@
 ---
 tags:
   - public
+  - code
 source: 
 title: How This Site Is Published
 ---
@@ -14,6 +15,11 @@ Decided on using `bash`, something I'm more familiar with, to get it done. [[sca
 ## Log
 
 [[2024-08-09]] Issue with image files that have custom display i.e. `![[urban-garden-japan.jpg|300]]`.  How to solve this? v1 would be remove the `|300` so it be uploaded at all. v2 would be to figure out how to reincorporate it into the site display. Close to having enough things to track to implement an issue tracker: https://github.com/ljavuras/obsidian-power-tools/tree/main/Issue%20Tracker
+
+Updates wanted:
+- fix sed regex - done
+- update media file creation/update logic to avoid unnecessary copying - done
+- update file creation/update logic to avoid unnecessary copying... is this worth it?
 
 [[2024-08-08]] Working on media links. Oops! Unending loop on @RyanMarin file. Because self-linked. Since scanning whole vault, no recursion is needed. Think about process, design, and performance. Maybe add back in, maybe. Fixed media links, was greedy a regex issue.
 
@@ -29,7 +35,7 @@ TITLE: "scan for markdown test"
 ```
 ![[Screen Shot 2024-08-08 at 12.48.54 PM.jpg]]
 
-added [[Korea - Dancing in Seoul]]
+added [[Korea - Dancing in Seoul Map]]
 added [[Garden Design]]
 
 Updates wanted:

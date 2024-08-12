@@ -3,22 +3,24 @@ tags:
   - garden
   - public
 ---
-![[urban-garden-japan.jpg|300]]
+2021
+![[PXL_20210913_163637795.jpg|300]] ![[after.jpg|300]] 
+2017-2018
+  ![[before.jpg|300]] ![[during.jpg|300]]
 # Links
 [[garden design education]]
-[[phoenix garden]]
-[[garden inspiration]]
+[[phoenix garden notes]]
+[[Desert Specific Gardening]]
+[google photo album garden inspiration link](https://photos.google.com/album/AF1QipNB_Gx8fcjH_DJDszX-XZEyYQE-7yDmw6YR3Cuy)
+
 # Log
 ## 2024
 ### August
 Start to organize designs, notes, and work.
-- https://drive.google.com/drive/u/0/folders/1ghCSGwcAJtdriu8YYTEIganNdcvnuw8r
-- https://drive.google.com/drive/u/0/folders/1fgu1XIYFP1cQqXxk4JO8-BR59mZcHf2q
-- https://drive.google.com/drive/u/0/folders/1CSfWqEi92b7cq9sbUcEKsNUAdb3W25Cc
 ### June
-Very dissatisfied with design. Get serious about learning esthetics. Apply on next [[loc_Phoenix]] visit.
+Happy with system and functional design applied concepts. Very dissatisfied with visual design, especially front yard in [[phoenix garden notes]]. Get serious about learning esthetics. Apply on next [[loc_Phoenix]] visit.
 - [[Garden Design and Sketches]]
-- [[phoenix garden]]
+- [[phoenix garden notes]]
 ### February
 Visit to Japan provides *plenty* of inspiration.
 ## 2023

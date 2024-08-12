@@ -40,50 +40,14 @@ Bananas
 https://www.facebook.com/groups/394748274277133/permalink/606064793145479/
 Natal Plum (see www.gardenoracle.com/fruit.html) 
 
-Growing
-
-Lemon
-Lime
-Clementine
-Persimmon
-Pomagranite
-Moringa
-Suriname Cherry
-Barbados Cherry
-Mango
-
-Passion Fruit
-Grape
-Eggplant
-Radishes
-Kale
-Beets
-
-Lemon Grass
-Basil
-Lavender
-Mint
-Oregano
-Sugar Cane
-
-
-
-
-
 
 Richard - Wisteria
 evergreen wisteria - frost tender 49.99
 Caroline wisteria - purple (the classic) 49.99 Up to 2 years old.
 
-RSI
-Citrus - $50
+RSI Growers - https://rsigrowers.com/ Citrus - $50, Phoenix grafted and grown.
 
-
-
-Richard for Chinese elm
-![[ulmparb chinese elm.pdf]]
-Evergreen elm - 89.99 15gal
-Drake elm - 149.99 15gal
+[[ulmus parvifolia]]
 
 https://www.santafenewmexican.com/news/local_news/rethinking-the-dreaded-siberian-elm/article_60654cca-f0a3-565a-8909-e36cd7e8d6a6.html
 

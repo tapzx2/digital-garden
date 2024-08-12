@@ -5,8 +5,6 @@ tags:
   - public
 ---
 
-![[PXL_20240610_074854463 (1).jpg]]
-
 ![[Untitled_Artwork 4.jpg]]
 
 ![[Untitled_Artwork 5.jpg]]

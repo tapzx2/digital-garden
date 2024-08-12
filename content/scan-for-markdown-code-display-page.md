@@ -7,8 +7,8 @@ tags:
 #!/bin/bash
 
 # Variable to fill in the target directory
-TARGET_DIR="~/repo/quartz/content"
-SOURCE_DIR="~/remote-brain"
+TARGET_DIR="/Users/tapzx2/repo/quartz/content"
+SOURCE_DIR="/Users/tapzx2/remote-brain"
 LOG_FILE="process_log.txt"
 
 # Initialize log file
@@ -45,8 +45,8 @@ process_markdown() {
 
         # Scan for Obsidian-style media files ![[media]]
         grep -o '!\[\[[^]]*\]\]' "$file" | while read -r media_link; do
-            # Remove the ![[ and ]]
-            media=$(echo "$media_link" | sed 's/!\[\[//;s/\]\]//')
+            # Remove the ![[ and |300 and ]]
+            media=$(echo "$media_link" | sed 's/!\[\[//;s/\|[0-9]*\]\]//;s/\]\]//')
 
             # Log the found media link
             echo "Found media link: $media" >> $LOG_FILE
@@ -58,9 +58,24 @@ process_markdown() {
             if [ -n "$media_file" ]; then
                 echo "Found media file: $media_file" >> $LOG_FILE
 
-                # Copy the media file to the target directory
-                cp "$media_file" "$TARGET_DIR/media-files/"
-                echo "Copied media file $media_file to $TARGET_DIR/media-files/" >> $LOG_FILE
+                # Check if the media file already exists in the target directory
+                target_media_file="$TARGET_DIR/media-files/$(basename "$media_file")"
+                if [ -f "$target_media_file" ]; then
+                    # Compare modification times
+                    if [ "$media_file" -nt "$target_media_file" ]; then
+                        # If the source file is newer, copy it and update the modification time
+                        cp "$media_file" "$TARGET_DIR/media-files/"
+                        touch -r "$media_file" "$target_media_file"
+                        echo "Updated media file $media_file in $TARGET_DIR/media-files/" >> $LOG_FILE
+                    else
+                        echo "Media file $media_file is up to date in $TARGET_DIR/media-files/" >> $LOG_FILE
+                    fi
+                else
+                    # If the file doesn't exist, copy it
+                    cp "$media_file" "$TARGET_DIR/media-files/"
+                    touch -r "$media_file" "$target_media_file"
+                    echo "Copied media file $media_file to $TARGET_DIR/media-files/" >> $LOG_FILE
+                fi
             else
                 echo "No media file found for: $media" >> $LOG_FILE
             fi
