@@ -87,9 +87,10 @@ Here's that same outfit with the tucked shirt. My legs aren't stubby anymore.
 
 Not all shirts tuck. For this guayabera I opened the shirt and tucked an undershirt so I could still show the waist line from the front.
 ![[Screen Shot 2024-08-20 at 3.15.38 PM.jpg]]
-
+## Suspenders
+If you wear suspenders without the alligator clips, you can get the buttons sewn to the inside of the pant waist when you get them made. You have to ask for this.
 ## Conclusion aka TL;DR Get Pants Made
-- I get pants from https://www.facebook.com/okiz.baek, in Korea. He will ship.
+- I get pants from https://www.facebook.com/okiz.baek. He will ship.
 - If in Korea you can also get them from https://www.facebook.com/bbangnim
 - Unless your legs are long, get your pants made at **waist** height.
 - Flood, color, and pleat to your needs and style.
