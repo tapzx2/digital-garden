@@ -14,6 +14,8 @@ I didn't want to mess with copying files to the `content` folder of Quartz since
 Decided on using `bash`, something I'm more familiar with, to get it done. [[scan-for-markdown-code-display-page|see code]]
 ## Log
 
+[[2024-08-15]] Quartz removes single return line breaks. Must be double. Consider fix since its a typical style I use when writing in Obsidian.
+
 [[2024-08-09]] Issue with image files that have custom display i.e. `![[urban-garden-japan.jpg|300]]`.  How to solve this? v1 would be remove the `|300` so it be uploaded at all. v2 would be to figure out how to reincorporate it into the site display. Close to having enough things to track to implement an issue tracker: https://github.com/ljavuras/obsidian-power-tools/tree/main/Issue%20Tracker
 
 Updates wanted:
