@@ -3,9 +3,7 @@ tags:
   - swing
   - public
 ---
-I'm very fortunate that swing and tango pants share a similar style. This has been a literally years long process to find pants for dancing that look good and fit right. Hoping this will save someone else some pain. If you just want the bullet points, go to the [[Pants for Dancing#Conclusion aka TL;DR Get Pants Made|TL;DR]].
-
-This is written with male body types in mind, I have no experience buying clothing for a female body type.
+I'm very fortunate that swing and tango pants share a similar style. This has been a literally years long process to find pants for dancing that look good and fit right. Hoping this will save someone else some pain. If you just want the bullet points, go to the [[Men's Pants for Dancing#Conclusion aka TL;DR Get Pants Made|TL;DR]].
 ## Where's the Waist
 Clothes come standard. Bodies do not.
 
@@ -40,7 +38,8 @@ My legs are a little bit on the shorter side and my hip / torso a little longer.
 
 ![[Screen Shot 2024-08-20 at 11.59.34 AM.jpg]]
 
-The pants that I theorized would good on me are pants that sit on the waist. This is John Hazel, a 21-year-old boxer in 1948 wearing a beautiful pair of pants.
+The pants that I theorized would good on me are pants that sit on the waist. This is boxer John Hazel in 1948 wearing a beautiful pair of pants.
+
 ![[Pasted image 20240820122822.png|300]]
 
 The *very first* pair of pants to fit me the way I wanted were these. Notice my belly button isn't visible because it is lower than my waist. 
@@ -78,6 +77,10 @@ I went with the flood while in motion look. I need my pants to work outside of s
 ![[bal-hop-mm2.jpg|300]]
 
 I recently got one more pair of black pants that were several inches longer because it looks so not tango to show socks like this.
+## Suspenders
+If you wear suspenders without the alligator clips, you can get the buttons sewn to the inside of the pant waist when you get them made. You have to ask for this.
+## Cuff
+I prefer a cuff. Some people prefer none. In tango the follower's heel can get stuck in a cuff. I have had this happen to me, but only once. For some dancers I've talked to it has been a regular issue and they have sworn off cuffs.
 ## Style Note - Tuck the Shirt
 If you can, tuck the shirt. AHHHHH, Why didn't I tuck this?? The whole point of the higher waist is to make the line higher on the body to give the visual of longer leg lines. Oh well, live and learn.
 ![[nicholas_swing_balboa_hjj2.jpeg|300]]
@@ -87,12 +90,10 @@ Here's that same outfit with the tucked shirt. My legs aren't stubby anymore.
 
 Not all shirts tuck. For this guayabera I opened the shirt and tucked an undershirt so I could still show the waist line from the front.
 ![[Screen Shot 2024-08-20 at 3.15.38 PM.jpg]]
-## Suspenders
-If you wear suspenders without the alligator clips, you can get the buttons sewn to the inside of the pant waist when you get them made. You have to ask for this.
 ## Conclusion aka TL;DR Get Pants Made
 - I get pants from https://www.facebook.com/okiz.baek. He will ship.
 - If in Korea you can also get them from https://www.facebook.com/bbangnim
 - Unless your legs are long, get your pants made at **waist** height.
-- Flood, color, and pleat to your needs and style.
+- Flood, color, cuff, and pleat to your needs and style.
 - Fabric will be synthetic, wool is `$$`.
 - Price will be around $120 to $150 including shipping.
