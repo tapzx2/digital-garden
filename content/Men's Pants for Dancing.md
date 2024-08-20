@@ -36,15 +36,15 @@ The [Gentleman's Gazette](https://www.gentlemansgazette.com/low-mid-vs-high-rise
 
 My legs are a little bit on the shorter side and my hip / torso a little longer. This means pants at high hip for me are not going to look good like they do on [[@Ryan Martin]]. Ryan is tall and has long legs. I haven't seen him shirtless so I just guessed where is waist is.
 
-![[Screen Shot 2024-08-20 at 11.59.34 AM.jpg]]
+![[Screen Shot 2024-08-20 at 11.59.34 AM.jpg|200]]
 
 The pants that I theorized would good on me are pants that sit on the waist. This is boxer John Hazel in 1948 wearing a beautiful pair of pants.
 
 ![[Pasted image 20240820122822.png|300]]
 
 The *very first* pair of pants to fit me the way I wanted were these. Notice my belly button isn't visible because it is lower than my waist. 
-![[Screen Shot 2024-08-20 at 12.36.08 PM.jpg|300]]
 
+![[Screen Shot 2024-08-20 at 12.36.08 PM.jpg|300]]
 ## How to Figure Out Pants For You
 Right now my waist is 37", my high hip is 39", and my hip (booty) is 46".
 
@@ -52,13 +52,11 @@ If by some stroke of luck I could find pants that were made to fit at my waist (
 
 It took a lot of trial and error before I realized my body isn't the problem. It is the off the rack clothes. I've tried on *lots* of pants. Realized that I needed pants that fit me, not me trying to fit my body to pants.
 
-I bought pants from Goodwill that fit my hips, were high rise, and were the style I was looking for. Then, I learned ONE skill in sewing to fix the waist. https://www.youtube.com/watch?v=UJ3EfgWS8UI 
+I bought pants from Goodwill that fit my hips, were high rise, and were the style I was looking for. Then, I learned ONE skill in sewing to fix the waist.
 
-This is a photo of those pants.
-![[Cary-Grant-in-The-Red-List-wearing-spectators-and-full-cut-trousers-1191x1500.webp|300]]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJ3EfgWS8UI?si=nsYpcWln4qhPxNj6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-No, that's Carry Grant. It was these pants you've already seen.
-![[Screen Shot 2024-08-20 at 12.36.08 PM.jpg|100]]
+If you don't know what looks good on you, what I suggest having a light meal and then head over to a well stocked Goodwill and try on A LOT of pants. Take photos. Do this at multiple locations across several weekends. You may need to bring some binder clips to take up some of the fabric when viewing in the mirror.
 ## Pleats
 To look swing, it is generally better to have pleats.
 
@@ -73,7 +71,8 @@ Of course I want wool. Wool was is financially practical. And my pant maker does
 This depends on your overall style choice. This video shows some LA legends and their varying pant lengths. [[@Jeremy Otth]] floods a ton. [[@David Frutos]] doesn't flood any. [[@Stephen Sayer]]'s pants are in between where the socks show well when moving, but not really when just standing.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3LHjHTe6ydk?si=SOFa3aGqcsDXvOwV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I went with the flood while in motion look. I need my pants to work outside of swing dancing but I wanted the pop of color since I usually am in darks because of travel.  
+I went with the flood while in motion look. I need my pants to work outside of swing dancing but I wanted the pop of color since I usually am in darks because of travel.
+
 ![[bal-hop-mm2.jpg|300]]
 
 I recently got one more pair of black pants that were several inches longer because it looks so not tango to show socks like this.
@@ -83,17 +82,20 @@ If you wear suspenders without the alligator clips, you can get the buttons sewn
 I prefer a cuff. Some people prefer none. In tango the follower's heel can get stuck in a cuff. I have had this happen to me, but only once. For some dancers I've talked to it has been a regular issue and they have sworn off cuffs.
 ## Style Note - Tuck the Shirt
 If you can, tuck the shirt. AHHHHH, Why didn't I tuck this?? The whole point of the higher waist is to make the line higher on the body to give the visual of longer leg lines. Oh well, live and learn.
+
 ![[nicholas_swing_balboa_hjj2.jpeg|300]]
 
 Here's that same outfit with the tucked shirt. My legs aren't stubby anymore.
+
 ![[VID_37220728_091142_109.mp4]]
 
 Not all shirts tuck. For this guayabera I opened the shirt and tucked an undershirt so I could still show the waist line from the front.
-![[Screen Shot 2024-08-20 at 3.15.38 PM.jpg]]
+
+![[Screen Shot 2024-08-20 at 3.15.38 PM.jpg|300]]
 ## Conclusion aka TL;DR Get Pants Made
 - I get pants from https://www.facebook.com/okiz.baek. He will ship.
 - If in Korea you can also get them from https://www.facebook.com/bbangnim
 - Unless your legs are long, get your pants made at **waist** height.
 - Flood, color, cuff, and pleat to your needs and style.
 - Fabric will be synthetic, wool is `$$`.
-- Price will be around $120 to $150 including shipping.
+- Price will be around 120 to 150 USD including shipping.
