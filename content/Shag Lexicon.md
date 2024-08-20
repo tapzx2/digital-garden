@@ -9,7 +9,6 @@ author:
   - "[[@Ryan Martin]]"
   - "[[@Megan Martin]]"
 ---
-by [[@Ryan Martin]] and [[@Megan Martin]]
 https://www.youtube.com/watch?v=B6rQBdVg1KY
 
 ![[Collegiate Shag Lexicon Ryan Martin.mp4]]

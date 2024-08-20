@@ -13,6 +13,7 @@ time stamp: 11:30
 
 ## Modern Rhythms
 - [[basic - rhythm - thirds - side by side]]
+- [[basic - rhythm - three to one]]
 - all quicks
 - all slows
 - freeze breaks

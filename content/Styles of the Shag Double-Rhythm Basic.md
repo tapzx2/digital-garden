@@ -7,6 +7,7 @@ author:
 source:
   - https://www.youtube.com/watch?v=caXA71aFcJ8
 ---
+https://www.youtube.com/watch?v=caXA71aFcJ8
 
 ![[Collegiate Shag - Styles of the Double-Rhythm Basic.mp4]]
 
