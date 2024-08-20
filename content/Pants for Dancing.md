@@ -3,7 +3,7 @@ tags:
   - swing
   - public
 ---
-I'm very fortunate that swing and tango pants share a similar style. This has been a literally years long process to find pants for dancing that look good and fit right. Hoping this will save someone else some pain. If you just want the bullet points, go to the [[Pants for Dancing#TL;DR Get Pants Made|TL;DR]].
+I'm very fortunate that swing and tango pants share a similar style. This has been a literally years long process to find pants for dancing that look good and fit right. Hoping this will save someone else some pain. If you just want the bullet points, go to the [[Pants for Dancing#Conclusion aka TL;DR Get Pants Made|TL;DR]].
 
 This is written with male body types in mind, I have no experience buying clothing for a female body type.
 ## Where's the Waist
@@ -74,8 +74,10 @@ Of course I want wool. Wool was is financially practical. And my pant maker does
 This depends on your overall style choice. This video shows some LA legends and their varying pant lengths. [[@Jeremy Otth]] floods a ton. [[@David Frutos]] doesn't flood any. [[@Stephen Sayer]]'s pants are in between where the socks show well when moving, but not really when just standing.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3LHjHTe6ydk?si=SOFa3aGqcsDXvOwV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I went with the flood while in motion look. I need my pants to work outside of swing dancing but I wanted the pop of color since I usually am in darks because of travel. 
+I went with the flood while in motion look. I need my pants to work outside of swing dancing but I wanted the pop of color since I usually am in darks because of travel.  
 ![[bal-hop-mm2.jpg|300]]
+
+I recently got one more pair of black pants that were several inches longer because it looks so not tango to show socks like this.
 ## Style Note - Tuck the Shirt
 If you can, tuck the shirt. AHHHHH, Why didn't I tuck this?? The whole point of the higher waist is to make the line higher on the body to give the visual of longer leg lines. Oh well, live and learn.
 ![[nicholas_swing_balboa_hjj2.jpeg|300]]
@@ -89,7 +91,7 @@ Not all shirts tuck. For this guayabera I opened the shirt and tucked an undersh
 ## Conclusion aka TL;DR Get Pants Made
 - I get pants from https://www.facebook.com/okiz.baek, in Korea. He will ship.
 - If in Korea you can also get them from https://www.facebook.com/bbangnim
-- Unless your legs are long, get your pants made at **waist** height
-- Flood, color, and pleat to your needs and style
-- Fabric will be synthetic, wool is `$$`
-- Price will be around $120 to $150 including shipping
+- Unless your legs are long, get your pants made at **waist** height.
+- Flood, color, and pleat to your needs and style.
+- Fabric will be synthetic, wool is `$$`.
+- Price will be around $120 to $150 including shipping.
