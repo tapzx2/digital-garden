@@ -6,6 +6,7 @@ tags:
 source [[The Rebirth of Shag]]
 time stamp: 11:30
 
+### Traditional Rhythms
 - [[basic - rhythm - single]]
 - [[basic - rhythm - double]]
 - [[basic - rhythm - triple]]

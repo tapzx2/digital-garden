@@ -17,7 +17,7 @@ Decided on using `bash`, something I'm more familiar with, to get it done. [[sca
 - Get own domain
 - burnout dataview
 - publish front matter
-- css design
+- [[css design for obsidian and quartz]]
 ## Log
 
 [[2024-09-07]] from [[Building a Second Brain]] make ideas surfaced. [[Forte2023PARA]] make project focus. ADHD overwhelm, just mini steps. Anyone of them is fine to do. When done list as done on that day.
