@@ -2,15 +2,14 @@
 tags:
   - public
 ---
-I love SOPs and documentation.
+SOPs contain the recipes of a company.
 
-SOPs contain the recipes of a company. They lay the foundation for quality work and sustainable growth, making them particularly impactful to newer companies or smaller teams.
+They lay the foundation for quality work and sustainable growth, making them particularly impactful to newer companies or smaller teams.
 
-This concise set of articles combines research and my  experience as COO in serval companies, shaped by my training as an instructional designer.
-
-We inherently want our work to have an impact. Researching and implementing quality SOPs has that impact and it is my sincere pleasure to do this work.
+This concise set of articles combines research and my  experiences as COO.
 
 If you're interested in developing SOPs for your company and would like to know more about how I go about it, I invite you to please take a look at the links below.
+
 - [[Quick Start to Writing SOPs]] - Writing SOPs can seem overwhelming. Get started quickly with two simple steps.
 - [[How to Organize SOPs]] - Once you have a few SOPs and or documentation articles, the issue of how to organzine them arises. Here's a quick summary on how to make your SOPs readable, findable, and easy to update. 
 - [[Which SOPs to Are Important to Write First]] - Struggling with which SOP to start with? 
@@ -19,6 +18,6 @@ If you're interested in developing SOPs for your company and would like to know 
 - [[SOP Resources]] - Under construction. Soon to have some deep dives and additional resources.
 -  [[PKM system - Knowledge organization, acquisition, and production]] - How I approach my own knowledge management. These notes are a little harder to read since they're meant to be read by me!
 
-If writing SOPs is something I can help you with, I look forward to chatting with you soon.
+If writing SOPs is something I can help you with, I look forward to working with you soon.
 
 ~Nicholas
