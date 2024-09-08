@@ -21,5 +21,8 @@ https://www.youtube.com/watch?v=caXA71aFcJ8
 - 10:19 [[basic - basic - lift basic]]
 - in comments: [[basic - basic - double kick]]
 - not listed: [[basic - basic - step kick]]
+- todo: see note in arthur murray basic, make
+	- shuffle basic
+	- stab basic
 ### Others
 - 1:02 [[stompers]]

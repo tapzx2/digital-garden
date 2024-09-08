@@ -3,7 +3,7 @@ tags:
   - swing
   - public
 ---
-I'm very fortunate that swing and tango pants share a similar style. This has been a literally years long process to find pants for dancing that look good and fit right. Hoping this will save someone else some pain. If you just want the bullet points, go to the [[Men's Pants for Dancing#Conclusion aka TL;DR Get Pants Made|TL;DR]].
+I'm very fortunate that swing and tango pants share a similar style. This has been a literally years long process to find pants for dancing that look good and fit right. Hoping this will save someone else some pain. If you just want the bullet points, go to the [[How to Get Men's Pants for Dancing#Conclusion aka TL;DR Get Pants Made|TL;DR]].
 ## Where's the Waist
 Clothes come standard. Bodies do not.
 

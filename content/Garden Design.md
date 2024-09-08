@@ -4,8 +4,11 @@ tags:
   - public
 ---
 2021
+
 ![[PXL_20210913_163637795.jpg|300]] ![[after.jpg|300]] 
+
 2017-2018
+
   ![[before.jpg|300]] ![[during.jpg|300]]
 # Links
 [[garden design education]]

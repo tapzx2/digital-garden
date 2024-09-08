@@ -6,10 +6,9 @@ title: Welcome!
 Hello! Welcome to my personal site.
 
 Projects
-- [[How This Site Is Published]]
 - [[For the Love of SOPs and Documentation]]
-- [[Art, Design, and Dance Projects]]
-- [[PKM system - Knowledge organization, acquisition, and production]]
+- [[Swing and Tango]]
+- [[Diverse Projects]]
 
 Socials
 - https://www.instagram.com/tapia.nicholas/

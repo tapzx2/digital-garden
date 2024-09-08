@@ -12,7 +12,19 @@ I didn't want to mess with copying files to the `content` folder of Quartz since
 [Oliver Falvai](https://oliverfalvai.com/evergreen/my-quartz-+-obsidian-note-publishing-setup) had a nice way of doing this but it didn't work for me.
 
 Decided on using `bash`, something I'm more familiar with, to get it done. [[scan-for-markdown-code-display-page|see code]]
+
+## Open Mini Steps
+- Get own domain
+- burnout dataview
+- publish front matter
+- css design
 ## Log
+
+[[2024-09-07]] from [[Building a Second Brain]] make ideas surfaced. [[Forte2023PARA]] make project focus. ADHD overwhelm, just mini steps. Anyone of them is fine to do. When done list as done on that day.
+
+[[2024-09-01]] added Prius project.
+
+[[2024-08-30]] How to "burnout" dataview to quartz. This is important for eventual list of note taking apps table. [[BurningOut Dataview To Markdown]]
 
 [[2024-08-20]] Would like to publish front matter since it contains source information. Already a known issue may be fixed in the future. Wait on this. https://github.com/jackyzha0/quartz/issues/1208
 
@@ -39,7 +51,7 @@ TITLE: "scan for markdown test"
 ```
 ![[Screen Shot 2024-08-08 at 12.48.54 PM.jpg]]
 
-added [[Korea - Dancing in Seoul Map]]
+added [[Map - Tango and Swing Dancing in Seoul Korea]]
 added [[Garden Design]]
 
 Updates wanted:
@@ -57,7 +69,7 @@ Question:
 
 [[2024-08-04]] issue with blending github publish and maximum efficiency work. Private messaged Oliver on [Mastodon](https://mastodon.social/@tapianicholas)
 
-[[2024-08-03]] Started research and work, see [[How This Site Is Published#Process Test and Attempt for Continuous Integration]]
+[[2024-08-03]] Started research and work, see [[How I Publish Obsidian Work With Quartz#Process Test and Attempt for Continuous Integration]]
 ## Process Test and Attempt for Continuous Integration
 
 when updating, from `quartz` folder run:
