@@ -6,6 +6,13 @@ tags:
 source:
   - "[[Sewing MOC]]"
 ---
+[[2024-09-13]] Guayabera shirt sleeve repair. Starting project file on [[Guayabera Embroidery Repairs]]
+
+[[2024-09-09]] Epoxy repair + added canvas patch on heel of left shoe and small reenforcement on part of shoe that has frayed on right. Would have preferred white, but could only find canvas in yellow. Better than no shoe!
+
+![[Screen Shot 2024-09-14 at 1.33.39 AM.jpg|200]]
+
+![[Screen Shot 2024-09-14 at 1.33.10 AM.jpg|200]]
 [[2024-08-06]] 
 Small hole repair on sweatpants. A far cry from [[Japanese technique for repairing holes kaketsugi]], but perfectly acceptable. Used theory from [[visible mending technique for clothes]]. Wouldn't mind a loop next time.
 
