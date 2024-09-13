@@ -33,6 +33,7 @@ Attempt at tailoring pants. Success. Small pucker. First properly waisted pants 
 
 [[2022-03-20]]
 Shorts? Underwear? Not sure. Freeform attempt at making coverings for bottom half. Didn't take into account seam allowance. Can't fit on body.
+
 ![[Screen Shot 2024-08-29 at 5.49.48 PM.jpg|200]]
 
 [[2022-03-18]]
