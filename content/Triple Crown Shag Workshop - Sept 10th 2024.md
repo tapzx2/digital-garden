@@ -5,7 +5,12 @@ location:
   - "[[@Triple Crown]]"
 date: 2024-09-10
 ---
-[[Triple Crown Shag Workshop - Sept 10th 2024#Notes for While Teaching|Outline Memory Trigger for While Teaching]]
+## Contents
+- Retrospective: What went well, what could have been better.
+- Class Notes: Quick memory triggers for teaching.
+- Long Outline: Class plan with reasoning and options.
+- Development Process: Used to develop plan. Has collected ideas and marketing.
+- Testimonial from El: A very good one!
 ## Retrospective
 Banana analogy didn't work for me. Rocking a baby worked *much* better to create the lilt.
 
@@ -21,7 +26,46 @@ Should have gotten media right away. Consider getting an iPhone just for easy me
 
 Many thoughts on this and created:
 [[How to Leverage Group Class as Funnel]]
-## Outline
+## Notes for While Teaching
+**Warmup**
+- kick and shuffle
+- single and triple
+**Efficiency**
+- balboa
+- scoot
+- pulse in lower half, not whole body
+- lazy shuffle
+**Floaty**
+- position and move follow along, degrees, hands, pass by, turn, sliding doors
+- create a move
+- want timing, take class at triple crown 
+**Pure Shag**
+- USA vs Korea mentality
+- Weight change leading
+- banana leading
+- Let's try distance leading
+- Let's try rotational
+- Let's try hand to hand what techniques, or combinations of techniques could you use?
+**Turn Timing**
+- balboa uses gears, shag uses paddles
+- from hitches, quick, slow turn, both sides
+- from run run, qq turn both sides
+
+**small routined**
+extended basic
+triplett basic
+3 slows 2 quick turn
+opposite wall banger
+shag lollies
+passbys
+nicholas break
+
+End of class speech
+Thank you for letting me share my perspectives on shag. Perhaps ask yourself, how do I build upon tradition? What can I contribute?
+Stephen and Chanzie are a great example of building upon tradition, vomit comet and Harvey wall isbanger were not shag moves before they did them.
+
+Finally, Thank you very much to Soochan and Young for giving me this platform and letting me teach here. And Thank you for being here, I appreciate your focus and attention.
+## Long Outline
 ### Warmup
 One song warm up with just step kick, back shuffle, and hitch
 One song of of single and triple, with step kick and back shuffle
@@ -82,7 +126,8 @@ shag uses paddles (not sure the right analogy here)
 - run run basic
 	- l/f a qq turn. Here's the vocalization, be sure to practice this!! The "turn" is the prep movement. ***1 2 3 4, turn 2 3 4, 1 2 3 4, 1 turn 3 4***
 	- l/f a slow turn -> weird, but doable, do it on your own time, not very shag. Practice it before class, don't show this, but be prepared for the question.
-### small routine
+### Small Routine
+if time!
 extended basic
 triplett basic
 3 slows 2 quick turn
@@ -90,14 +135,13 @@ opposite wall banger
 shag lollies
 passbys
 nicholas break
-### End of class speech
+### End of Class Speech
 Thank you for letting me share my perspectives on shag. Perhaps ask yourself, how do I build upon tradition? What can I contribute?
 
 Stephen and Chanzie are a great example of building upon tradition, vomit comet and Harvey wall banger were not shag moves before they did them.
 
 Finally, Thank you very much to Soochan and Young for giving me this platform and letting me teach here. And Thank you for being here, I appreciate your focus and attention.
 ## Development Process
-
 Sent in description: Join us for "Mastering Collegiate Shag Rhythms," where you'll honor tradition while crafting your own sophisticated shag rhythms and steps. This workshop dives deep into advanced techniques, focusing on efficient movement that keeps you dancing all night. Be prepared to sweat as you refine your ability to lead and follow intricate rhythm changes, syncing perfectly with your partner. Whether you're a seasoned dancer or have solid shag experience, this session will elevate your skills and bring new precision to your dancing.
 
 - for decent dancers or experienced with shag, maybe a little tricky for beginners but they could handle it if they were willing to struggle
@@ -125,7 +169,7 @@ We prepared this with the hope that various people will be able to perform vario
 
 ### Translated Marketing in Bulk
 #### Instagram
-#섀그특강
+`#섀그특강`
 지난 발앤합에 홀연히 나타나
 발보아, 린디, 섀그 대회를 휩쓴 니콜라스.
 20년차 탱고 댄서이자
@@ -402,46 +446,6 @@ Turns timing
 - to lead a
 	- slow
 	- quick
-
-## Notes for While Teaching
-**Warmup**
-- kick and shuffle
-- single and triple
-**Efficiency**
-- balboa
-- scoot
-- pulse in lower half, not whole body
-- lazy shuffle
-**Floaty**
-- position and move follow along, degrees, hands, pass by, turn, sliding doors
-- create a move
-- want timing, take class at triple crown 
-**Pure Shag**
-- USA vs Korea mentality
-- Weight change leading
-- banana leading
-- Let's try distance leading
-- Let's try rotational
-- Let's try hand to hand what techniques, or combinations of techniques could you use?
-**Turn Timing**
-- balboa uses gears, shag uses paddles
-- from hitches, quick, slow turn, both sides
-- from run run, qq turn both sides
-
-**small routined**
-extended basic
-triplett basic
-3 slows 2 quick turn
-opposite wall banger
-shag lollies
-passbys
-nicholas break
-
-End of class speech
-Thank you for letting me share my perspectives on shag. Perhaps ask yourself, how do I build upon tradition? What can I contribute?
-Stephen and Chanzie are a great example of building upon tradition, vomit comet and Harvey wall isbanger were not shag moves before they did them.
-
-Finally, Thank you very much to Soochan and Young for giving me this platform and letting me teach here. And Thank you for being here, I appreciate your focus and attention.
 ## Testimonial from El about Triple Crown Workshop
 From Dongyun Shin aka El https://www.instagram.com/elsdy/
 
