@@ -1,16 +1,10 @@
 ---
 tags:
-  - project
   - public
 location:
   - "[[@Triple Crown]]"
 date: 2024-09-10
 ---
-- [x] organize
-- [ ] send to soochan and young
-- [ ] ask for media
-- [ ] figure out how to publish as part of "show your work"
-
 [[Triple Crown Shag Workshop - Sept 10th 2024#Notes for While Teaching|Outline Memory Trigger for While Teaching]]
 ## Retrospective
 Banana analogy didn't work for me. Rocking a baby worked *much* better to create the lilt.
