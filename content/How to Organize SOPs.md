@@ -1,7 +1,10 @@
 ---
 tags:
   - public
+  - ingest_note
 ---
+Note to self - Incorporate: [[Tiago's general guidance on knowledge management]]. Consider growing into two articles: general philosophy (platform agnostic, low friction, flexible, no duplicates, findability) and into nuts and bolts (atomicity, names, folders, tags).
+
 A documentation system needs to be easy to setup and maintain, adaptable, and low friction.
 
 This is a quick summary on organizing SOPs. This article covers how to make SOPs easily scannable, easy to categorize, and easy to find.
@@ -45,7 +48,7 @@ Content is usually organized into folders.
 Typically this is the finder, or in web apps the left side bar. This is for manual file navigation. A big upside is it gives people a concrete structure to navigate, with folders and labels giving them visual feedback and control in incremental steps.
 
 Systems have been developed for how to make folders. It is surprising that something so seemingly mundane has had so many hours of thought poured into it.
-- [[Forte2023PARA|PARA]]
+- [[PARA System Quick Start|PARA]]
 - [[ACE]]
 - [[Johnny Decimal]]
 - [[itGenius]]
