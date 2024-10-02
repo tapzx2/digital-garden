@@ -12,7 +12,7 @@ tags:
   ![[before.jpg|300]] ![[during.jpg|300]]
 # Links
 [[garden design education]]
-[[phoenix garden notes]]
+[[phoenix garden log-notes]]
 [[Desert Specific Gardening]]
 [google photo album garden inspiration link](https://photos.google.com/album/AF1QipNB_Gx8fcjH_DJDszX-XZEyYQE-7yDmw6YR3Cuy)
 
@@ -21,9 +21,9 @@ tags:
 ### August
 Start to organize designs, notes, and work.
 ### June
-Happy with system and functional design applied concepts. Very dissatisfied with visual design, especially front yard in [[phoenix garden notes]]. Get serious about learning esthetics. Apply on next [[loc_Phoenix]] visit.
+Happy with system and functional design applied concepts. Very dissatisfied with visual design, especially front yard in [[phoenix garden log-notes]]. Get serious about learning esthetics. Apply on next [[loc_Phoenix]] visit.
 - [[Garden Design and Sketches]]
-- [[phoenix garden notes]]
+- [[phoenix garden log-notes]]
 ### February
 Visit to Japan provides *plenty* of inspiration.
 ## 2023
