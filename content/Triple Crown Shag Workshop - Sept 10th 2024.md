@@ -4,14 +4,13 @@ tags:
 location:
   - "[[@Triple Crown]]"
 date: 2024-09-10
-title: Triple Crown Shag Workshop Lesson Plan and Retrospective
 ---
 ## Contents
-- [[Special Triple Crown Shag Workshop - Sept 10th 2024#Retrospective|Retrospective]]: What went well, what could have been better.
-- [[Special Triple Crown Shag Workshop - Sept 10th 2024#Notes for While Teaching|Notes for While Teaching]]: Quick memory triggers for teaching.
-- [[Special Triple Crown Shag Workshop - Sept 10th 2024#Long Outline|Long Outline]]: Class plan with reasoning and options.
-- [[Special Triple Crown Shag Workshop - Sept 10th 2024#Development Process|Development Process]]: Used to develop plan. Has collected ideas and marketing.
-- [[Special Triple Crown Shag Workshop - Sept 10th 2024#Testimonial from El about Triple Crown Workshop|Testimonial]]: A very good one!
+- Retrospective: What went well, what could have been better.
+- Class Notes: Quick memory triggers for teaching.
+- Long Outline: Class plan with reasoning and options.
+- Development Process: Used to develop plan. Has collected ideas and marketing.
+- Testimonial from El: A very good one!
 ## Retrospective
 Banana analogy didn't work for me. Rocking a baby worked *much* better to create the lilt.
 

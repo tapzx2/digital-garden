@@ -3,23 +3,16 @@ tags:
   - public
 ---
 
-![[nicholas-2024-triplecrown2.jpg|300]]
+![[nicholas-2024-triplecrown2.jpg]]
 #### [[2024 BCN Shag]]
 ![[Screen Shot 2024-10-02 at 2.16.22 PM.jpg|150]]
-
 In [[loc_Barcelona]] finalist for advanced mix and match and 4th in strictly
 - Advanced Mix and Match: https://www.youtube.com/watch?v=edthUm6ApiY
 - Strictly
 	- all skate 1: https://photos.google.com/photo/AF1QipNvbkOcvCm7pb23UrMp95lPhqOZeXzLbe_zqzaR
 	- spotlights and all skate: https://www.youtube.com/watch?v=EsqopGBEr5Y
-
-#### Special [[Special Triple Crown Shag Workshop - Sept 10th 2024]]
-![[Pasted image 20241002152039.png|200]]
-
-An absolute honor to teach at the legendary [[@Triple Crown]] studio.
 #### [[2024 Bal Hop]]
 ![[Screen Shot 2024-10-02 at 2.17.26 PM.jpg|150]]
-
 In [[loc_Seoul]] finalist for bal hop cup, 3rd in shag strictly, 2nd balboa am m&m, 1st in shag mix and match
 - balhop cup
 	- qualifiers:
@@ -47,16 +40,14 @@ Second in advanced shag mix and match: https://www.youtube.com/watch?v=uWCBz7WGy
 Regular instructor of shag at weekly event.
 #### [[2023 Hot Jazz Jamboree]]
 ![[nicholas_swing_balboa_hjj8.jpeg|350]]
-
 Second in shag strictly. Second in open mix and match shag. Third in mix and match balboa. Performance with LollyShaggers.
 - Shag strictly 2nd place: https://www.youtube.com/watch?v=mTZNoGHxdA4
 - Shag mix and match 2nd place: https://www.youtube.com/watch?v=5tdnjhile0U
 - LollyShaggers video: https://www.youtube.com/watch?v=7ArEkkFx6lk
 - Balboa mix and match Finals 3rd place: https://youtu.be/eKj4BTFvnck?si=y3Bs5OupyIGjrv26&t=363
 #### [[Portland State Faire 2023]]
-![[nicholas-hannah-portland-lindy-exchange-2024.png|250]]
-
 Backup Dancer for [[Rhythm Wrecker Dance Band]]
+![[nicholas-hannah-portland-lindy-exchange-2024.png|250]]
 #### [[2023 Swingin by the Sound]]
 Second in advanced shag mix and match: https://www.youtube.com/watch?v=27qjg-onJj4
 #### [[2023 Hot Rhythm Holiday]]
