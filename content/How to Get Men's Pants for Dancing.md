@@ -3,7 +3,9 @@ tags:
   - swing
   - public
 ---
-I'm very fortunate that swing and tango pants share a similar style. This has been a literally years long process to find pants for dancing that look good and fit right. Hoping this will save someone else some pain. If you just want the bullet points, go to the [[How to Get Men's Pants for Dancing#Conclusion aka TL;DR Get Pants Made|TL;DR]].
+I'm very fortunate that swing and tango pants share a similar style. This has been a literally years long process to find pants for dancing that look good and fit right. Hoping this will save someone else some pain. If you just want the bullet points, go to the How to Get Men's Pants for Dancing#Conclusion aka TL;DR Get Pants Made|TL;DR.
+
+https://www.instagram.com/reel/C_6ZvAEJYr0/?igsh=MTI3NmQwYnlpNXpqZA==
 ## Where's the Waist
 Clothes come standard. Bodies do not.
 
@@ -68,7 +70,7 @@ My daily drivers are black, and dark blue with pinstripe. I have had other color
 ## Fabric
 Of course I want wool. Wool was is financially practical. And my pant maker doesn't offer it. He recommended a light synthetic that doesn't wrinkle easily and I've had no complaints.
 ## Length
-This depends on your overall style choice. This video shows some LA legends and their varying pant lengths. [[@Jeremy Otth]] floods a ton. [[@David Frutos]] doesn't flood any. [[@Stephen Sayer]]'s pants are in between where the socks show well when moving, but not really when just standing.
+This depends on your overall style choice. This video shows some LA legends and their varying pant lengths. @Jeremy Otth floods a ton. @David Frutos doesn't flood any. @Stephen Sayer's pants are in between where the socks show well when moving, but not really when just standing.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3LHjHTe6ydk?si=SOFa3aGqcsDXvOwV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I went with the flood while in motion look. I need my pants to work outside of swing dancing but I wanted the pop of color since I usually am in darks because of travel.
@@ -77,7 +79,7 @@ I went with the flood while in motion look. I need my pants to work outside of s
 
 I recently got one more pair of black pants that were several inches longer because it looks so not tango to show socks like this.
 ## Suspenders
-If you wear suspenders without the alligator clips, you can get the buttons sewn to the inside of the pant waist when you get them made. You have to ask for this.
+If you wear suspenders without the alligator clips, you can get the buttons sewn to the inside of the pant waist when you get them made. You have to ask for this. If you're really fancy you can wear President Shirley suspenders like @Sam Chan.
 ## Cuff
 I prefer a cuff. Some people prefer none. In tango the follower's heel can get stuck in a cuff. I have had this happen to me, but only once. For some dancers I've talked to it has been a regular issue and they have sworn off cuffs.
 ## Style Note - Tuck the Shirt

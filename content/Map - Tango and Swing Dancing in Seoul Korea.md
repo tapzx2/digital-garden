@@ -1,7 +1,7 @@
 ---
 tags:
   - public
-  - archived_project
+  - completed_project
 ---
 
 ![[map.png]]

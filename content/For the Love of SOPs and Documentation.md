@@ -15,8 +15,8 @@ If you're interested in developing SOPs for your company, I invite you to please
 - [[Which SOPs to Are Important to Write First]] - Struggling with which SOP to start with? 
 - [[How to Pick the Right SOP Platform]] - Where do you store all this information so your team can write and access it? 
 -  [[Neighborhood mailer marketing sop]] and [[Drone Photography SOP]] are real life examples of SOPs that I've written for a real company.
-- [[SOP Resources]] - Under construction. Soon to have some deep dives and additional resources.
--  [[PKM system - Knowledge organization, acquisition, and production]] - How I approach my own knowledge management. These notes are a little harder to read since they're meant to be read by me!
+- SOP Resources - Under construction. Soon to have some deep dives and additional resources.
+-  PKM system - Knowledge organization, acquisition, and production - How I approach my own knowledge management. These notes are a little harder to read since they're meant to be read by me!
 
 If writing SOPs is something I can help you with, I look forward to working with you soon.
 

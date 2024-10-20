@@ -4,7 +4,7 @@ tags:
   - shag/LAstyle
   - public
 author:
-  - "[[@Fancy Dougherty]]"
+  - "@Fancy Dougherty"
 source:
   - https://www.youtube.com/watch?v=N-7Wcj0CFuU
 ---

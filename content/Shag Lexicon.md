@@ -7,7 +7,7 @@ source:
   - https://www.youtube.com/watch?v=B6rQBdVg1KY
 author:
   - "[[@Ryan Martin]]"
-  - "[[@Megan Martin]]"
+  - "@Megan Martin"
 ---
 https://www.youtube.com/watch?v=B6rQBdVg1KY
 
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=B6rQBdVg1KY
 Positions:
 2:08 - Closed
 2:14 - Side by Side
-2:20 - [[shag open position]]
+2:20 - shag open position
 2:24 - Open Side-by-Side
 2:25 - Hip Position (right)
 2:27 - Hip Position (left)
@@ -31,12 +31,12 @@ Positions:
 Turns and Spins
 2:43 - Arch Turn
 2:51 - Double Arch Turn
-3:01 - [[Passby Turn]]
+3:01 - Passby Turn
 3:07 - Texas Tommy
-3:11 - [[Free Spin or Peel Away]] [[turn basic boogie woogie]]
+3:11 - [[Free Spin or Peel Away]] turn basic boogie woogie
 3:15 - Wringer Turn
 3:22 - Shoulder Pass
-3:29 - [[Tuck Turn]]
+3:29 - Tuck Turn
 3:35 - Underarm Pass
 3:42 - Wring the Dishrag
 3:47 - Shoulder Release
@@ -47,23 +47,23 @@ Turns and Spins
 Classic Moves
 4:20 - Breaks 
 4:26 - Side-by-Side Basic
-4:34 - [[Collegiate Kicks]] (Double-Doubles)
-4:42 - [[Collegiate Kicks]] (Single-Singles)
-4:50 - [[Collegiate Kicks]] (Double-Singles)
-4:57 - [[Camel Hops]]
+4:34 - Collegiate Kicks (Double-Doubles)
+4:42 - Collegiate Kicks (Single-Singles)
+4:50 - Collegiate Kicks (Double-Singles)
+4:57 - Camel Hops
 5:03 - Sailor Step
 5:14 - Jig Kicks
 5:21 - Cross Kicks
-5:29 - [[Chugs]]
-5:33 - [[Hangman]]
-5:41 - [[Hesitation Kicks]]
-5:52 - Roll/[[fall off the log]] (in Open)
+5:29 - Chugs
+5:33 - Hangman
+5:41 - Hesitation Kicks
+5:52 - Roll/fall off the log (in Open)
 5:59 - Roll/Fall Off the Log (in Closed)
 6:05 - Oscillating Kicks
 6:18 - Shag Saw
-6:27 - [[Drags]]
+6:27 - Drags
 6:34 - Eight-Count Breaks
-6:40 - [[kick throughs]]
+6:40 - kick throughs
 6:50 - Sailor Knot
 7:01 - Cross Kicks in Open
 7:09 - Groovie Movie (Pass)
@@ -82,7 +82,7 @@ Some Contemporary Adaptations
 8:49 - Music Box
 8:57 - [[skates]]
 9:02 - Chugging Side-Kicks
-9:08 - [[Fish Out of Water]]
+9:08 - Fish Out of Water
 9:15 - Camel Hops in Closed
 9:25 - (Side) Slips
 9:31 - Turning Breaks
@@ -90,10 +90,10 @@ Some Contemporary Adaptations
 9:55 - Side-by-Side Chugs
 10:03 - Hook KIcks
 10:15 - Slingshot
-10:24 - Stomping Breaks aka [[breaks - bouncing]]
+10:24 - Stomping Breaks aka breaks - bouncing
 10:32 - Shag Pass
 10:39 - (6-Count) Peek-a-Boo
 
 Additional Moves 
-[[scissor kicks - ryan martin]]
-[[scissor kick - ryan martin - shadow sweetheart variation]]
+scissor kicks - ryan martin
+scissor kick - ryan martin - shadow sweetheart variation

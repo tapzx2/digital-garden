@@ -11,4 +11,4 @@ Derived from [[basic - basic - arthur murray basic]]
 
 ![[stab-basic.mp4]]
 
-[[@Minn Vo]] [[@Corina Acosta]]
+@Minn Vo @Corina Acosta

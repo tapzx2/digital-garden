@@ -24,15 +24,15 @@ i.e.
 - Two pulses = a slow
 - Three pulses = part of fancy rhythms
 - Four pulses = [[skates]] or [[collegiate kicks]]
-- Six pulses = [[hesitation kicks]]
-- Eight pulses = [[kick throughs]] or [[skates]]
+- Six pulses = hesitation kicks
+- Eight pulses = kick throughs or [[skates]]
 
 You can mix and match the pulses with weight changes to create [[shag rhythms]].
 - Try leading / following all of those standard rhythms with your feet together, just doing weight changes and applying the rhythms.
 
 In shag, you'll have the most success if you focus on the leg your weight is on. The free leg is the show, everyone looks at it, but it isn't the important leg. **Focus on the leg with your weight.**
 ### Shag Rhythms and Patterns
-And there are many [[Styles of the Shag Double-Rhythm Basic|shag footwork patterns]]. The one that will give you the most gains right away is the [[basic - basic - shuffle basic]].
+And there are many Styles of the Shag Double-Rhythm Basic|shag footwork patterns. The one that will give you the most gains right away is the [[basic - basic - shuffle basic]].
 
 Let's add in quicks. When I practice alone and want reps, I usually do [[basic - rhythm - single]] or [[basic - rhythm - triple]] because they're bilateral. This helps to avoid building too much asymmetry. Plus some really cool moves use these rhythms.
 - Do the single and triple rhythm basic side by side.
@@ -47,7 +47,7 @@ The most important part of this shag is the scoot. This scoot will make you effi
 - Try the [[the six directions of movement]] and focus on the scoot while doing the step kick.
 - Try moving far and fast too!
 
-For closed, I will often use the [[basic - basic - double kick]] as my default. This can be a regional thing. [[loc_Los Angeles]] will use this more. [[loc_Austin]] may use [[basic - basic - arthur murray basic]].
+For closed, I will often use the [[basic - basic - double kick]] as my default. This can be a regional thing. loc_Los Angeles will use this more. loc_Austin may use [[basic - basic - arthur murray basic]].
 - Practice transition from open to closed and changing basics. Use the [[basic - basic - shuffle basic]] or [[basic - basic - arthur murray basic]] in closed and then the [[basic - basic - step kick]] in open.
 - If time allows lead / follow different positions, turns, and passes and include transition into closed.
 ### Pulse and Center of Gravity
@@ -66,7 +66,7 @@ Let's quickly skim some common and iconic shag motions to do before we're done:
 ### Conclusion
 Okay! That's enough for the first session.
 
-For the second session the focus is on the [[Getting the Scoot in Shag]].
+For the second session the focus is on the Getting the Scoot in Shag.
 ## Choose Your Own Adventure
 There's shag specific lead/follow technique in many of the patterns.
 

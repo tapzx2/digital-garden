@@ -3,18 +3,18 @@ tags:
   - garden
   - public
 location:
-  - "[[loc_Japanese Garden Portland]]"
+  - "loc_Japanese Garden Portland"
 date: 2023-07-01
 ---
 ## Event Description
 
-Bamboo Fence Workshop 2023 will be conducted by [[@Sadafumi Uchiyama]] (Sada), Chief Curator and Director of International Japanese Garden Training Center, a fourth-generation Japanese gardener from southern Japan. After a tour of the garden focusing on bamboo fences, there will be a discussion on types and styles, followed by a demonstration and hands-on tool practice and knot-tying session under the guidance of Sada and staff gardener.
+Bamboo Fence Workshop 2023 will be conducted by @Sadafumi Uchiyama (Sada), Chief Curator and Director of International Japanese Garden Training Center, a fourth-generation Japanese gardener from southern Japan. After a tour of the garden focusing on bamboo fences, there will be a discussion on types and styles, followed by a demonstration and hands-on tool practice and knot-tying session under the guidance of Sada and staff gardener.
 ## Photos
 https://photos.app.goo.gl/HxzmbRp4mGZhr9ib9
 
 ## Log
 
-Designed wood fence is clear white cedar. Designed to replicate the visual depiction of a [[bamboo]] fence.
+Designed wood fence is clear white cedar. Designed to replicate the visual depiction of a bamboo fence.
 
 Bamboo quarter replace fence in the front of the house once a year. Depending on people that could be between 1 and 10 years for back of the house replacement.
 
@@ -76,5 +76,5 @@ When making the transition of free end and creating the base end loop, the "aha"
 
 CalPoly landscape architect. Look for professors who are working professional.
 
-[[loc_UNLV]] interior architecture is a really good program 
-[[@James Chaddick]]
+loc_UNLV interior architecture is a really good program 
+@James Chaddick

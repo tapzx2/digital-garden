@@ -3,7 +3,7 @@ tags:
   - reference_note
   - public
 source:
-  - "[[Forte2023PARA]]"
+  - "Forte2023PARA"
 ---
 ## System
 4 (5) categories

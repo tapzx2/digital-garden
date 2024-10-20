@@ -3,9 +3,9 @@ tags:
   - concept_note
   - public
 ---
-source: [[Matuschak0000WritingNoteTitles]]
+source: Matuschak0000WritingNoteTitles
 ## Examples of Propositional Titles
-from [[Seitz2021StarterPack]]
+from Seitz2021StarterPack
 
 To modify "love thy neighbor" you might say "Loving your neighbor is vital for a well-functioning society". 
 

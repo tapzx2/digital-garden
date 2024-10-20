@@ -8,6 +8,6 @@ These are some projects, on going areas of responsibility, and hobbies. Some are
 - [[Map - Tango and Swing Dancing in Seoul Korea]]
 - [[Sewing Projects]]
 - [[Garden Design]]
-
+- [[For the Love of SOPs and Documentation]]
 
 

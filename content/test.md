@@ -1,5 +1,0 @@
----
-tags:
-  - public
----
-Content here

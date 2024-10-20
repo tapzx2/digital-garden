@@ -17,9 +17,6 @@ echo "Process started at $(date)" > $LOG_FILE
 # Function to process markdown files
 process_markdown() {
     local file=$1
-    local base_dir=$(dirname "$file")
-
-    #echo "Processing file: $file" >> $LOG_FILE
 
     # Check for the public tag in the front-matter
     if awk '/^---/{f=!f} f && /tags:/,/^---/' "$file" | grep -q '\- public'; then
@@ -29,22 +26,8 @@ process_markdown() {
         cp "$file" "$TARGET_DIR"
         echo "Copied $file to $TARGET_DIR" >> $LOG_FILE
 
-        # Scan for Obsidian-style links [[link]]
-        #grep -o '\[\[.*\]\]' "$file" | while read -r link; do
-            # Remove the [[ and ]]
-        #    link=$(echo "$link" | sed 's/\[\[//;s/\]\]//')
-
-            # Find the linked markdown file
-        #    linked_file=$(find "$SOURCE_DIR" -name "$link.md")
-
-            # Process the linked file
-        #    if [ -n "$linked_file" ]; then
-        #        process_markdown "$linked_file"
-        #    fi
-        #done
-
         # Scan for Obsidian-style media files ![[media]]
-        grep -o '!\[\[[^]]*\]\]' "$file" | while read -r media_link; do
+        grep -o '!\[\^*\]\]' "$file" | while read -r media_link; do
             # Remove the ![[ and |300 and ]]
             media=$(echo "$media_link" | sed 's/!\[\[//;s/\|[0-9]*\]\]//;s/\]\]//')
 
@@ -83,6 +66,40 @@ process_markdown() {
     fi
 }
 
+# Function to remove non-existent links from markdown files, excluding embedded media
+remove_broken_links() {
+    echo "Removing broken links in $TARGET_DIR" >> $LOG_FILE
+
+    # Build a list of existing markdown files in TARGET_DIR
+    existing_files=$(find "$TARGET_DIR" -name "*.md" -exec basename {} .md \;)
+
+    # Find all markdown files in the target directory
+    find "$TARGET_DIR" -name "*.md" | while read -r file; do
+        echo "Checking file for broken links: $file" >> $LOG_FILE
+
+        # Scan for Obsidian-style links link, excluding media embeds (![[...]])
+        ggrep -Po '(?<!\!)\[\^+\]\]' "$file" | while read -r link; do
+            #echo $file
+            # Skip embedded media (starts with ![[)
+            #if [[ "$link" == '![[*' ]]; then
+            #    echo "Skipping media embed: $link in $file" >> $LOG_FILE
+            #    continue
+            #fi
+
+            # Remove the  and  to get the link name
+            link_name=$(echo "$link" | sed 's/\[\[//;s/\]\]//')
+
+            # Check if the link exists in the list of existing files
+            if ! echo "$existing_files" | grep -q "^$link_name$"; then
+                echo "Found broken link: $link in $file" >> $LOG_FILE
+                # Remove the [[]] around the broken link without overreaching
+                sed -i '' "s/\[\[$link_name\]\]/$link_name/g" "$file"
+                echo "Removed link brackets from: $link in $file" >> $LOG_FILE
+            fi
+        done
+    done
+}
+
 # Function to clean up TARGET_DIR
 cleanup_target_dir() {
     echo "Cleaning up $TARGET_DIR" >> $LOG_FILE
@@ -106,13 +123,12 @@ mkdir -p "$TARGET_DIR/media-files"
 # Cleanup target directory before processing
 cleanup_target_dir
 
-# Find all markdown files in the source directory
+# Find all markdown files in the source directory and process them
 find "$SOURCE_DIR" -name "*.md" | while read -r file; do
     process_markdown "$file"
 done
-```
 
-```embed-bash
-PATH: "vault://code/obsidian-publishing/scan-for-mkdown.sh"
-TITLE: "scan for markdown" 
+# After processing, remove broken links from markdown files in TARGET_DIR
+remove_broken_links
+
 ```

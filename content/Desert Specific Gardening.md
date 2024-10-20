@@ -10,11 +10,11 @@ tags:
 - 1 foot of mulch *minimum*
 - targeted drip watering
 - use downspout water
-- use [[ipomea batatas]] for ground cover
-- use [[moringa oleifera]] and [[ricinus communis]] for shade and as pioneers
+- use ipomea batatas for ground cover
+- use moringa oleifera and ricinus communis for shade and as pioneers
 - use Chinese elm for long term shade and value, maybe mulberry
 - stay away from plants that need frost to fruit i.e. apple, peach unless you can identify a microclimate
-- [[ficus carica]], [[punica granatum]], citrus, [[lavandula]], grapes, [[malpighia emarginata]], lemon grass, eggplant, [[ocimum basilicum]], and roses are a breeze. Hot mediterranean often works well, but careful of the need for well draining soil.
+- ficus carica, punica granatum, citrus, lavandula, grapes, malpighia emarginata, lemon grass, eggplant, ocimum basilicum, and roses are a breeze. Hot mediterranean often works well, but careful of the need for well draining soil.
 ## Research
 
 Jake Mace

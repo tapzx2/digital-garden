@@ -1,9 +1,8 @@
 ---
 tags:
-  - project_note
   - sewing
   - public
-  - "#project"
+  - archived_project
 ---
 - [ ] try the hoop and a few stitches  ➕2024-09-25 #someday
 ![[Screen Shot 2024-09-13 at 11.39.55 PM.jpg]]

@@ -47,7 +47,7 @@ Caroline wisteria - purple (the classic) 49.99 Up to 2 years old.
 
 RSI Growers - https://rsigrowers.com/ Citrus - $50, Phoenix grafted and grown.
 
-[[ulmus parvifolia]]
+ulmus parvifolia
 
 https://www.santafenewmexican.com/news/local_news/rethinking-the-dreaded-siberian-elm/article_60654cca-f0a3-565a-8909-e36cd7e8d6a6.html
 

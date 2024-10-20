@@ -13,11 +13,11 @@ Can make three basics out of this
 - [[basic - basic - stab basic]]
 
 ![[authur-murray-basic.mp4]]
-[[@Jeremy Otth]], [[@Amanda Pincock]]
+@Jeremy Otth, @Amanda Pincock
 
-[[@Petite Krystal]]
-[[@Alexander Vinokurov]]
+@Petite Krystal
+@Alexander Vinokurov
 
-Notice Alexander is doing the [[basic - basic - arthur murray basic]], but Krystal is doing a [[basic - basic - hook basic]]
+Notice Alexander is doing the [[basic - basic - arthur murray basic]], but Krystal is doing a basic - basic - hook basic
 
 ![[basic step fan tap away.mp4]]

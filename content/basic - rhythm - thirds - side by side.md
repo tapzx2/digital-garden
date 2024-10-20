@@ -14,7 +14,7 @@ can be flipped to
 
 ![[basic thirds side by side.mp4]]
 
-[[2023-04-01]] practice notes with [[@Joy Jing]]
+2023-04-01 practice notes with @Joy Jing
 
 Adding a little pop make is easier to lead/follow and also makes it more visually obvious and performative.
 

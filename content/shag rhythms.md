@@ -3,7 +3,7 @@ tags:
   - public
   - shag
 ---
-source [[The Rebirth of Shag]]
+source The Rebirth of Shag
 time stamp: 11:30
 
 ### Traditional Rhythms

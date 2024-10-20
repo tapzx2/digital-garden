@@ -115,7 +115,7 @@ After the first iteration is completed, we can step back for a minute and think 
 - "Deposit remaining cash" (step 1.3.3) is mission critical and could highlighted a little better in SOP.
 - We do not have the capacity to write the button pushing level of detail into our SOP nor do we have the capacity to train employees who might need that. This can help lead to writing clear job requirements. It may be important for the applicant to have some experience with POS systems or an aptitude for learning. Maybe in the future we would look into writing the button pushing docs. But for now because we're trying to get this position filled.
 - Handling issues could be considered critical. This jumps to the top of the list of SOPs to write.
-- We can probably prune the detail from the customer interaction, cash count, and supply check instructions. We'd would hire someone who's good at this already. In the future, when a more robust training methodology is needed i.e. [[dutch bros training]], then we could expand this.
+- We can probably prune the detail from the customer interaction, cash count, and supply check instructions. We'd would hire someone who's good at this already. In the future, when a more robust training methodology is needed i.e. dutch bros training, then we could expand this.
 
 Using the above points, the first draft can be tidied up into something like this.
 
@@ -153,18 +153,18 @@ After organizing, the result is a tidy looking SOP that clearly sets expectation
 
 However, it is a little unwieldy to scan and requires too much reading. There are also some steps that can be made their own SOPs.
 
-There is also a question for the critical cash system of what happens if the employee misses the cash deposit cut off? After a quick think about this system, we can implement an updated version. The square brackets indicate `[[links]]` to another SOP. In the SOP platform they would look more like this: [[How to Organize SOPs]].
+There is also a question for the critical cash system of what happens if the employee misses the cash deposit cut off? After a quick think about this system, we can implement an updated version. The square brackets indicate `links` to another SOP. In the SOP platform they would look more like this: [[How to Organize SOPs]].
 
 ```
 ### Procedure
 1. Start shift with a cash count and supply check
 2. Handle Transactions
-3. Handle Customer Issues - [[Customer Policies]]
-4. [[Shift End Process]]
+3. Handle Customer Issues - Customer Policies
+4. Shift End Process
 5. Deposit cash by placing it in the cash pouch and going to First Republic Bank, deposit to the Yarns and Things Account. Do this after every shift before 5:30pm. If needed, you can use the night depository for an after hours deposit.
 ```
 
-As an architect type planner, I used to be caught in the productivity trap of *over designing* systems. This was reflected in the SOPs It is helpful to keep in mind Gall's law and remember that [[complex systems that work come from simple systems that work]].
+As an architect type planner, I used to be caught in the productivity trap of *over designing* systems. This was reflected in the SOPs It is helpful to keep in mind Gall's law and remember that complex systems that work come from simple systems that work.
 
 This 5 step SOP is a great first draft. It is simple, clear, and given us clarity on the next documents that need to be written. Thanks for hanging with this example until now!
 

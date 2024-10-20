@@ -1,9 +1,9 @@
 ---
 tags:
   - public
-  - archived_project
+  - completed_project
 source:
-  - "[[Prius Hybrid Battery Repair Log]]"
+  - "Prius Hybrid Battery Repair Log"
 ---
 In August of 2022 I got the red triangle of death on my 2005 Prius.
 
