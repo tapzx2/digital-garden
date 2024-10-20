@@ -153,7 +153,7 @@ After organizing, the result is a tidy looking SOP that clearly sets expectation
 
 However, it is a little unwieldy to scan and requires too much reading. There are also some steps that can be made their own SOPs.
 
-There is also a question for the critical cash system of what happens if the employee misses the cash deposit cut off? After a quick think about this system, we can implement an updated version. The square brackets indicate `links` to another SOP. In the SOP platform they would look more like this: [[How to Organize SOPs]].
+There is also a question for the critical cash system of what happens if the employee misses the cash deposit cut off? After a quick think about this system, we can implement an updated version. The square brackets indicate `links` to another SOP. In the SOP platform they would look more like this: How to Organize SOPs.
 
 ```
 ### Procedure
@@ -168,4 +168,4 @@ As an architect type planner, I used to be caught in the productivity trap of *o
 
 This 5 step SOP is a great first draft. It is simple, clear, and given us clarity on the next documents that need to be written. Thanks for hanging with this example until now!
 
-After writing 10 to 20 of these documents, we'll need an organization system. Please have a look at [[How to Organize SOPs]] for a quick tour of organization principles.
+After writing 10 to 20 of these documents, we'll need an organization system. Please have a look at How to Organize SOPs for a quick tour of organization principles.

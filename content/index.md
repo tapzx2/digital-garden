@@ -7,7 +7,7 @@ title: Welcome!
 
 Hello! Welcome to my personal site. It is *under construction*.
 
-My name is Nicholas Tapia, I'm currently a fractional COO and traveling the world as a dancer.
+My name is Nicholas Tapia, I'm currently a fractional COO, traveling the world, and dancing.
 
 In my free time I research knowledge management, practice my Spanish, and do some mini design projects. In the past I ran a roofing company, started a venue rental company, and worked as a cyber security analyst at JPMC.
 
@@ -18,9 +18,3 @@ Areas of Focus
 - [[Swing and Tango]]
 - [[Diverse Projects]]
 - [[How I Publish This Site - Obsidian with Quartz]]
-
-Socials
-- https://www.instagram.com/tapia.nicholas/
-- https://www.facebook.com/tapia.nicholas
-- https://www.linkedin.com/in/nicholastapia/
-- https://github.com/tapzx2

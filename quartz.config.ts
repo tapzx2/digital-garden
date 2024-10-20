@@ -8,6 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
+    pageTitle: "Nicholas Owen Tapia Personal Site and Digital Garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
