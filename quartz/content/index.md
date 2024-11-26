@@ -11,7 +11,7 @@ My name is Nicholas Tapia, I'm currently a small business consultant and dance t
 
 In my free time I research PMK, practice Spanish, and do mini projects. In the past I ran a roofing company, started a venue rental company, and worked as a cyber security analyst at JPMC.
 
-My vision for the future is to work in infill development. I am currently learning about successful models, market niches, and best practices in the field, while connecting with people who share these goals.
+My vision for the future is to contribute to meaningful work in infill development. I am currently learning about successful models, market niches, and best practices in the field, while connecting with people who share these goals.
 
 Areas of Focus
 - [[Infill and Missing Middle Real Estate Development]]
