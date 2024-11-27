@@ -2,8 +2,6 @@
 tags:
   - public
 ---
-## Revival ADU
-I wrote this up as if I were doing this from scratch for myself. I think you probably already have a handle on steps 1, 2, and 3 but maybe there are some interesting ideas in there for you. After our chat, you planned to make 20 calls. How did they go?
 ### Brokers and Agents
 Focus on high-touch, high-value clients like real estate agents and brokers specializing in multi-family properties. Use a personalized, relationship-driven approach:
 
