@@ -10,3 +10,8 @@ Focus on high-touch, high-value clients like real estate agents and brokers spec
 3. Build Trust: Deliver value through high-quality conversations. Bring actionable insights to meetings i.e. [[Bring ADU Numbers for the Property to the Meeting]].
 4. Maintain Relationships: Follow up regularly. Use a system to schedule reconnections or draw on ChatGPT’s ideas for engagement. [[ChatGPT Ideas for Developing Touches for High Value Contacts]].
 
+## Resources
+- [[Marketing Advice to Fellow Entrepreneurs]]
+- [Content Marketing Basics](https://www.youtube.com/watch?v=lUTXIs61_V0)
+- [Content Marketing in 2024](https://www.youtube.com/watch?v=Jnx4NLoNDyk)
+- [[Chat GPT General Marketing Frameworks Response]]
