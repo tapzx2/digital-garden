@@ -39,7 +39,7 @@ update and test code with ggrep, reference https://chatgpt.com/c/cc0ad39b-6d32-4
 
 2024-10-04 Tweaked some of the colors for the light theme.
 
-2024-09-07 from Forte2022BuildingASecond Brain make ideas surfaced. Forte2023PARA make project focus. ADHD overwhelm, just mini steps. Anyone of them is fine to do. When done list as done on that day.
+2024-09-07 from Forte2022BuildingASecondBrain make ideas surfaced. Forte2023PARA make project focus. ADHD overwhelm, just mini steps. Anyone of them is fine to do. When done list as done on that day.
 
 2024-09-01 added Prius project.
 
