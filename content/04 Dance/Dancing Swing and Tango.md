@@ -11,4 +11,3 @@ Here are a few articles I've prepared for public viewing.
 - [[Collegiate Shag Demystified - A Simple Progression for Professional Dancers]]
 - [[How to Get Men's Pants for Dancing]] 
 - [[Tango Class Recaps]]
-- [[]]

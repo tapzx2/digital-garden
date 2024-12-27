@@ -1,0 +1,24 @@
+---
+tags:
+  - public
+---
+
+[The Missing Middle: An Innovative Approach for Affordable Housing](https://inbusinessphx.com/commercial-real-estate/the-missing-middle-an-innovative-approach-for-affordable-housing)
+by Pat Watts and Rob Lyles - owners of [Greenlight Communities](https://livegreenlight.com/), a major developer misusing the missing middle term. Green washing but for development. Similar article in [Phoenix Business Journal](https://www.bizjournals.com/phoenix/news/2023/12/11/greenlight-communities-phoenix-tucson-attainable.html).
+
+![[Pasted image 20241227090453.png|200]]
+[Adding Missing Middle Housing to Downtown Phoenix](https://tazkhatristudios.com/adding-missing-middle-housing-to-downtown-phoenix/) by [Taz Khatri Studios](https://tazkhatristudios.com/projects_category/multifamily-residential/). Written in 2023. Notes single-family residential is up to two and all else multifamily. Talks about variance process (four of them!), historic preservation approval, setbacks, and parking issues. It took two years for this project to be approved. Adding a ground-up duplex in the back of his long, narrow urban property in the Garfield Historic District, transforming the property from single-family to multifamily without demolishing the existing building. [ref](https://tazkhatristudios.com/project_types/pierce-street-duplex/)
+
+[925 E McKinley St](https://www.google.com/maps/place/925+E+McKinley+St,+Phoenix,+AZ+85006) is a six unit building in the Garfield historic district. How did this happen? While zoned R-5 RI HP, it seems especially unusual because it is in a Conservation Easement. Owned by [Galpez Holdings](https://galpezholdingsllc1.managebuilding.com/resident/PublicPages/ContactUs.aspx). (480) 710-4632  
+galpezre@gmail.com also [Corina Vargas](https://www.linkedin.com/in/corina-vargas-2857aa214/) is a project manager there. The [assessor office](https://mcassessor.maricopa.gov/mcs/?q=GALPEZ%20HOLDINGS%20LLC) shows they have a 4 other multi family properties in Phoenix and several other residential. [Street view ](https://www.google.com/maps/@33.4565623,-112.0606932,3a,75y,251.28h,81.93t/data=!3m8!1e1!3m6!1s6o7k3W6o1aaxPhc9d4ny4w!2e0!5s20080401T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.071331716425263%26panoid%3D6o7k3W6o1aaxPhc9d4ny4w%26yaw%3D251.27738413754477!7i3328!8i1664?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)shows was already this way in 2008. Possible historic building? Look at proj_Phoenix House Historical Research for more resources.
+
+[New Arizona law overrides local zoning to spur multifamily projects](https://therealdeal.com/national/phoenix/2024/05/24/new-arizona-law-overrides-local-zoning-to-spur-housing-projects/) May 2024
+"New housing legislation in Arizona would allow developers to bypass local zoning to build duplexes, triplexes, fourplexes and townhomes near downtowns." Is this true? I thought it was only an ADU addition. After rereading, I think it is not true, but I'm not 100% sure. [[SB1415P Arizona State ADU Law]]
+
+[Missing Middle Housing](https://publichealth.arizona.edu/calendar/missing-middle-housing-arizona-smart-growth-series-webinar) – Arizona Smart Growth Series Webinar. Put on by [Pinnacle Prevention](https://www.pinnacleprevention.org/), a well organized food security non profit. Attended by other local social good non profits.
+
+Form or Finance: Making the Missing Middle Work - talk from Nov 2023 with all non locals. Opticos Design's president and @Ryan Spak who's doing some interesting work in Philly. Danielle Arigoni, Managing Director for Policy and Solutions, National Housing Trust, Washington, DC and author of Climate Resilience for an Aging Nation. What? Why would Island Press put on this potentially every expensive in person event?
+
+[Governor Katie Hobbs 2024 Legislative Action Update on Missing Middle Housing](https://azgovernor.gov/office-arizona-governor/news/2024/05/governor-katie-hobbs-legislative-action-update-1) notes [[House Bill 2721]] with allows the construction of **missing middle housing** types within central city areas and large new developments. Up to fourplexes and town homes with way less pain. 1 car per unit max requirement. January 1st 2026 effective date. [[@Adam Baugh]] wrote a [pro con](https://www.wmbattorneys.com/wp-content/uploads/2024/07/Can-HB-2721-address-Arizonas-acute-middle-housing-shortage_-Phoenix-Business-Journal.pdf) about it. Also published [here](https://www.scottsdalerealtors.org/2024/06/27/the-pros-cons-of-arizonas-missing-middle-housing-bill-hb-2721/). Looks like a zoning speciality great lawyer.
+
+[Listing of fourplexes](https://www.lovingphoenixrealty.com/for-sale/phoenix/fourplex-sale-phoenix-az/) in Phoenix, maybe not all are fourplex, maybe some more, but a good visual reference. Absolutely stunning property at [[design reference - 734 W McDowell Rd]]
