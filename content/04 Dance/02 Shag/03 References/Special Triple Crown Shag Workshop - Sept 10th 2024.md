@@ -6,6 +6,7 @@ location:
 date: 2024-09-10
 title: Triple Crown Shag Workshop Lesson Plan and Retrospective
 ---
+next: Special Triple Crown Shag Workshop - February 18th 2025
 ## Contents
 - Special Triple Crown Shag Workshop - Sept 10th 2024#Retrospective|Retrospective: What went well, what could have been better.
 - Special Triple Crown Shag Workshop - Sept 10th 2024#Notes for While Teaching|Notes for While Teaching: Quick memory triggers for teaching.

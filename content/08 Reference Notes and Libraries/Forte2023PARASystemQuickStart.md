@@ -35,6 +35,6 @@ Folder Refinement
 5. be flexible. It doesn't matter that you have 4 main categories. Two works: i.e. Hot - Cold. Or add a systems folder for 6.
 6. Use same organizational system on everywhere. Each system adds mental load.
 ## Upkeep
-1. retitle new items in inbox to something useful. Same vein as -  [[write concept and permanent notes with titles for academic writing, aggregation, and memory recall]]
+1. retitle new items in inbox to something useful. Same vein as -  [[1a - On Writing Titles]]
 2. Sort in to para - will this help me move a current project forward? yes - projects. will this help me uphold an area of responsibility? yes - aor. Interest? Otherwise, delete. This also helps refresh work / ideas that have been done too.
 3. Update active projects. Move stuff to archives or out of it.

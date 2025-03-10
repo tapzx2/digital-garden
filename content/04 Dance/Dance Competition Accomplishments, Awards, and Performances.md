@@ -5,10 +5,14 @@ tags:
 ---
 *Under construction*, a lot of the pre swing stuff hasn't been added yet!
 
-See [[Swing Dance Visual Resume and Assets]] or https://www.instagram.com/tapia.nicholas/ for additional media if needed.
+See Swing Dance Visual Resume and Assets or https://www.instagram.com/tapia.nicholas/ for additional media if needed.
 
 ![[nicholas-2024-triplecrown2.jpg|300]]
-#### Special Shag Class at WhatAJazz with @Egle
+#### Special [[Special Triple Crown Shag Workshop - Sept 10th 2024]]
+![[Pasted image 20241002152039.png|200]]
+
+They had me back! An absolute honor to teach at the legendary @Triple Crown studio again!
+#### Special Shag Class at biz_WhatAJazz|WhatAJazz with @Egle Shag Master
 Tapia2024ThinkingAboutTheFutureofSocialShag
 #### 2024 Vilnius Shag Fest
 In loc_Vilnius finalist for advanced mix and match.

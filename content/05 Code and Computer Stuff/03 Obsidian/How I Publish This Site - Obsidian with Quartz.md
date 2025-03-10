@@ -2,6 +2,7 @@
 tags:
   - public
   - code
+  - documentation_note
 source: 
 title: How This Site Is Published
 ---

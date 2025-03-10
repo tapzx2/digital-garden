@@ -33,3 +33,10 @@ ref: [Tango in Korea](https://www.facebook.com/groups/466828892314068)
 
 ![[Screen Shot 2024-08-08 at 1.20.07 PM.jpg]]
 ref: [swing dancing in Korea](https://www.michellejpswing.com/dancing-in-korea/weekly?fbclid=IwZXh0bgNhZW0CMTAAAR1qHI3McHUqI-AIjrJ96f0r7Cb-AQLx-8jPGaGG6thAk_rsHaglaCsXIKY_aem_d23z9ZFmvskkxq2fXGWgYw)
+
+Additional References:
+- https://www.instagram.com/thesocialcluba/
+- https://www.facebook.com/swingtimebar/
+- https://www.instagram.com/yonocompany
+## Practice Spaces
+- M2Dance Studio: Seoul Mapo-gu World Cup buk-ro 6-gil 60
