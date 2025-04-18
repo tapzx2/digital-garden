@@ -5,10 +5,20 @@ tags:
 ---
 *Under construction*, a lot of the pre swing stuff hasn't been added yet!
 
-See Swing Dance Visual Resume and Assets or https://www.instagram.com/tapia.nicholas/ for additional media if needed.
-
 ![[nicholas-2024-triplecrown2.jpg|300]]
-#### Special [[Special Triple Crown Shag Workshop - Sept 10th 2024]]
+
+See [[Swing Dance Visual Resume and Assets]] or https://www.instagram.com/tapia.nicholas/ for additional media if needed.
+
+#### 2025 Asian Balboa Exchange
+Open Mix and Match 1st Alternate
+Open Mix and Match Beside Finalist (4th place)
+#### 7 Week Tango Series in Tokyo
+TapiaRui2025Japan7WeekSeries
+![[Pasted image 20250419013050.png]]
+#### Special Training Series at Triple Crown
+Special Triple Crown Shag Workshop - February 18th 2025
+Special Triple Crown Shag Workshop - February 25th 2025
+Special Triple Crown Shag Workshop - March 4th 2025
 ![[Pasted image 20241002152039.png|200]]
 
 They had me back! An absolute honor to teach at the legendary @Triple Crown studio again!
@@ -59,7 +69,7 @@ In loc_Seoul finalist for bal hop cup, 3rd in shag strictly, 2nd balboa am m&m, 
 Swing performance at Pie Milonga in loc_Seoul 
 #### 2024 Swinging by the Sound
 Second in advanced shag mix and match: https://www.youtube.com/watch?v=uWCBz7WGyCg
-#### Special Tokyo Workshops
+#### Special Tokyo Workshop
 Special Tokyo Workshop - moving into each others space - June 2024
 
 ![[Pasted image 20241126205105.png]]
@@ -87,7 +97,7 @@ Second in shag strictly. See [results page](https://camphollywood.net/contest-re
 - First place team [results page](https://camphollywood.net/contest-results/contest-results-2019/) https://www.youtube.com/watch?v=dUTQNzSbiNk
 - 5th place student team coach.
 #### 2018 Swing Devils Competition
-First at the University Swing Club in Phoenix.
+First at the University Swing Club in Phoenix
 #### 2017 Mundial de Tango
 56th - with Stephanie
 #### 2014 USA Tango Championships

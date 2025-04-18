@@ -8,7 +8,7 @@ source: https://www.youtube.com/watch?v=eg5flk8mYAE
 
 The Rebels
 
-Ed & Inez Thompson are incredible original Pure Balboa dancers. Natalie Esparza (in the dark dress dancing with the man (Phil) in the pink shirt) was an original SoCal Swing dancer. Bal-swing legend Willie Desatoff with his wife Lila is after them. - @Bobby White
+Ed & Inez Thompson are incredible original Pure Balboa dancers. Natalie Esparza (in the dark dress dancing with the man (Phil) in the pink shirt) was an original SoCal Swing dancer. Bal-swing legend @Willie Desatoff with his wife Lila is after them. - @Bobby White
 
 first example of "walking back" in balboa I could find Willie and Lila at end 14:45. Also the forward traveling out and ins. Notice music choice!!
 

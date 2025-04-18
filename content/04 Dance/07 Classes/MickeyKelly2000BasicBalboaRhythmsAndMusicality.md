@@ -2,6 +2,7 @@
 tags:
   - balboa
   - public
+  - lesson
 author:
   - "@Mickey Fortanasce"
   - "@Kelly Arsenault"

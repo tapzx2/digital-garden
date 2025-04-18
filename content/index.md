@@ -11,7 +11,7 @@ Here are a few jumping off points for accessing my dance library.
 - [[Collegiate Shag Theory and Progression for Learning and Practice]]
 - [[How to Get Men's Pants for Dancing]] 
 - [[Tango Class Recaps]]
-- [[Balboa Fundamentals Syllabus]]
+- [[Balboa Syllabus]]
 ## Background
 I dance, compete, and teach around the world. For a little more on my past you can check out my [[Dance History]].
 

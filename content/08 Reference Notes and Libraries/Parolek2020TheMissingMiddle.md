@@ -79,7 +79,7 @@ Benicia, and Paso Robles.
 Here is the organized information in the bullet point format you requested:
 
 - Alliance for Housing Solutions Housing-advocacy group in Arlington, Virginia. Organizing to get ahead of the housing conversation.
-- Opticos Design Hired by groups such as Holmes Homes and Isla Vista.
+- biz_Opticos Design Hired by groups such as Holmes Homes and Isla Vista.
 - Brown Design Studio Involved in the East Beach project in Norfolk, Virginia.
 - AARP Champions Missing Middle Housing through its Livable Communities initiative.
 - Places doing positive zoning work: Medford, Oregon; State of Oregon; Novato, California; Flagstaff, Arizona; Denver, Colorado; City of Minneapolis; Cincinnati, Ohio; Miami, Florida; Beaufort County, South Carolina; Kauai County, Hawaii; Paso Robles, California; San Francisco; Kansas City; Davis, California
