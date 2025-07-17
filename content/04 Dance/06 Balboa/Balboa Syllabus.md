@@ -6,16 +6,17 @@ tags:
 This is a expanded and heavily modified version of Bobby and Kate's syllabus. The progression I use for myself in practice is generally this one: [[Balboa Partnership Progression]].
 ## Purest Bal - most in 6 directions
 - up basic
-- singles, paddles, pendulum, biases
+- singles: paddles, pendulum, biases
+- slows: walks, sways
 - down basic
 - crab walk
 - Come Around
-- walks
+- reverse come around
 ## Middle Ground
 - 1/2 up basic 1/2 out and in (this is for transitions) (six directions)
 - Out and Ins (six directions)
 - Lollies “Lolly Kicks”) https://balboa.org.uk/dancer/lawrence-wise
-- Fall Off the Log (aka hal kicks)
+- Fall Off The Log aka Hal Kicks
 - Cross Overs
 - Mess Around
 - Grape Vine
@@ -23,8 +24,9 @@ This is a expanded and heavily modified version of Bobby and Kate's syllabus. Th
 - toss out  [variations](https://www.youtube.com/watch?v=7IRiInOW_9k) (slide, pop from r, release, l to r cross hand, behind the back) 
 - reverse toss out (+ lunge)
 - right turn (from grape vine and cross over)
+- cross body lead inside turn
 - left turn (slow! not quick)
-- swivels (with up and down rhythms)
+- swivels (with up, down, slow, quick, and syncopated, rhythms)
 - send out (very modern!! 5 versions)
 ## Bal Swing Turn Expansion Pack
 - left turn (quick version)

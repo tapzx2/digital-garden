@@ -51,7 +51,7 @@ Classic Moves
 - 5:03 - Sailor Step
 - 5:14 - Jig Kicks
 - 5:21 - Cross Kicks
-- 5:29 - chugs
+- 5:29 - shag basic - chugs
 - 5:33 - hangman
 - 5:41 - hesitation kicks
 - 5:52 - Roll/cross overs (in Open)

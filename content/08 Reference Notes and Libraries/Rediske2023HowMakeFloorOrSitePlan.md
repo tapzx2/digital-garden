@@ -7,6 +7,7 @@ author:
   - "@Samuel Rediske"
 date: 2023-04-16
 ---
+ ![[SCR-20250421-ripe.png]]
 ## Tools
 - Clipboard
 - Architectural Scale Ruler

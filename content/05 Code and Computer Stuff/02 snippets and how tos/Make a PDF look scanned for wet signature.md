@@ -1,6 +1,5 @@
 ---
 tags:
-  - permanent_note
   - public
 ---
 ## When You Need a Wet Signature

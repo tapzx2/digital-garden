@@ -4,6 +4,9 @@ tags:
   - public
 ---
 # Photos and Videos
+
+![[2025vbf-patio-nicholas-grace.mp4]]
+
 ![[Pasted image 20250419012827.png]]
 ![[Pasted image 20250419012817.png]]
 ![[Pasted image 20250419012809.png]]
@@ -61,6 +64,8 @@ https://www.facebook.com/photo/?fbid=2209340222774077&set=pcb.2209341916107241
 ![[VID_40740419_090927_634.mp4]]
 ![[nicholas-dancing-lindy-blues-snl-korea.mp4]]
 ref: https://www.instagram.com/reel/C-_vpwEv6qC/?igsh=MXRveTBwZHptMHprag%3D%3D
+
+tango at onada:  https://www.facebook.com/share/v/AHj2o3kL4xf7CQVX/?mibextid=xfxF2i
 
 ![[bal-hop-mm3.jpg]]
 

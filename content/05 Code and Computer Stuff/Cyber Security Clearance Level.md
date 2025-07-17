@@ -2,7 +2,6 @@
 tags:
   - public
   - cybersecurity
-  - reference_note
 ---
 1. Confidential Clearance
 2. Secret Clearance

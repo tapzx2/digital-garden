@@ -26,6 +26,8 @@ Obsidan, Quartz, and Github pages are used. I made a script to move public files
 - Test moved file cleanup.
 ## Log
 
+2025-04-29 wiped again. Restablished connection github but required `npm i yargs --save` to serve properly. Also, on zen browser had to shrink size because explorer not showing up and dark mode was on. Something to look into i guess someday.
+
 2024-11-26 reestablished connection with site after wiping in Nov2024. Very easy. Thank you github. Issue with removing public tags.
 
 2024-10-20 did some design work to really focus the direction I want this site to go. Quite accidentally recreated exactly how Jackie already made the explorer. The issue with the explorer as it is right now is because I'm copying content over, it looses the file/folder structure. So now... I have to figure out how I want structure the file/folder arrangement. It kinda forces the issue for me to organize the fold/folder structure. How the heck do I want to do this in a sustainable way? Solution: bankruptcy. This is another evolution of organization so I'll follow the advice of not going back and redoing everything. Just do it this way from this point forward. Need to update code to write folder structure. - Done

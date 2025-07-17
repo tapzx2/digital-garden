@@ -8,17 +8,23 @@ tags:
 ![[nicholas-2024-triplecrown2.jpg|300]]
 
 See [[Swing Dance Visual Resume and Assets]] or https://www.instagram.com/tapia.nicholas/ for additional media if needed.
-
+#### 2025 Valencia Balboa Festival
+- Mix and Match Open - 1st Alternate
+- 2nd - Shag Underground Mix and Match
+	- 2025 VBF ShagSpotlights
+#### 2025 Mood For Swing, Tokyo
+- 1st - Open Lindy Hop Mix and Match
+- 1st - One Minute Showcase
 #### 2025 Asian Balboa Exchange
-Open Mix and Match 1st Alternate
-Open Mix and Match Beside Finalist (4th place)
+- Open Mix and Match 1st Alternate
+- Open Mix and Match Beside Finalist (4th place)
 #### 7 Week Tango Series in Tokyo
 TapiaRui2025Japan7WeekSeries
 ![[Pasted image 20250419013050.png]]
 #### Special Training Series at Triple Crown
-Special Triple Crown Shag Workshop - February 18th 2025
-Special Triple Crown Shag Workshop - February 25th 2025
-Special Triple Crown Shag Workshop - March 4th 2025
+- Special Triple Crown Shag Workshop - February 18th 2025
+- Special Triple Crown Shag Workshop - February 25th 2025
+- Special Triple Crown Shag Workshop - March 4th 2025
 ![[Pasted image 20241002152039.png|200]]
 
 They had me back! An absolute honor to teach at the legendary @Triple Crown studio again!

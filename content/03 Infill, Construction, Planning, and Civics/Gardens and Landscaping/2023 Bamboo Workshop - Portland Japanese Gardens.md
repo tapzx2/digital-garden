@@ -20,7 +20,7 @@ Bamboo quarter replace fence in the front of the house once a year. Depending on
 
 Tea garden calls for the simplest form of bamboo fence. Typically it's something that the team master or owner of the tea House will do.
 
-Bamboo canes of Japanese garden can be prune frequently. This allows you to control both height and number and thickness. You can cut back to the ground. If The bamboo foliage is not heavy then the roots don't have to push out and expand. This is the main thing that helps you control bamboo growth. Note that there are 600 700 year old bamboo portions inside homes In Japan that have not destroyed their courtyards or patios.
+Bamboo canes of Japanese garden can be prune frequently. This allows you to control both height and number and thickness. You can cut back to the ground. If The bamboo foliage is not heavy then the roots don't have to push out and expand. This is the main thing that helps you control bamboo growth. Note that there are 600 700 year old bamboo portions inside homes In Japan that have not destroyed their courtyards or patios. ^a961bc
 
 Traditionally a student will go and make this fence in the master will fall behind them cutting off the knots that suck ass. The Masters will also be watching to make sure that they aren't wasting too much material.
 

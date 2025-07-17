@@ -15,7 +15,7 @@ Q Q S   Q Q S   - down basic
 
 When initially learning, switch between the two can be extremely confusing, because it is usually taught as counts and the rhythm mixing isn't obvious at first. Even worse, sometimes it a vocalized as `quick quick slow` the entire time.
 
-A toss out come around is so confusing because it mixes an up basic and down basic, mixing the two rhythms.
+A toss out - and come around is so confusing because it mixes an up basic and down basic, mixing the two rhythms.
 ```
 1 2 3 4 5 6 7 8
 Q Q S   Q S   Q
