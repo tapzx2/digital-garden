@@ -5,25 +5,21 @@ title: Welcome!
 ---
 ![[nicholas-2024-bio-squareish.jpg|200]]
 
-Hello! Welcome to my personal site. It is *under construction*. My name is Nicholas Tapia, I'm currently traveling and dancing.
-## Jumping Off Points
-Here are a few jumping off points for accessing my dance library.
-- [[Collegiate Shag Theory and Progression for Learning and Practice]]
+Hi! Hello! Hey there! Welcome to my personal site. :) It is *under construction*.... so yeah, still workin' on it and adding stuff here and there.
+## Dance Is Life
+
+### My Philosophy
+Dancing is a birthright. An expression of humanity as essential as love, food, or song. I believe social dance is one of the best things you can do for yourself and your community. It is more than movement; it’s a gift to the world. It builds community, sparks joy, and heals. It’s low-impact on the earth but high-impact on our souls. It’s art, history, culture, and health—all wrapped into one timeless, sustainable practice.
+### What I Teach
+I teach people to dance in a way that honors both the individual and the partnership. Every step is built on respect, equality, and shared energy. My mission is to make dance accessible, joyful, and meaningful.
+### What I Value
+- **Heritage Meets Innovation**: I’m passionate about preserving the rich cultural roots of social dances while embracing the evolution of modern styles. Dance should honor where it comes from while moving toward where it’s going.
+- **Equality in Connection**: Partner dancing is a shared experience. Both roles—lead and follow—are equal in value and importance, creating something greater than either could alone.
+- **Generational Growth**: My goal is to elevate my students beyond what I could ever achieve. Progress is a responsibility: the next generation of dancers should stand taller, move faster, and shine brighter.
+## About Me
+I dance, compete, and teach around the world. For a little more on my past you can check out my [[Dance Accomplishments, Teaching, and Performances Log]] as well as a [[Brief Bio and Dance History]].
+## Class Recaps and Writing
+I'm doing my best to write and record stuffs for peoples to take a look at and learn from!
 - [[How to Get Men's Pants for Dancing]] 
 - [[Tango Class Recaps]]
 - [[Balboa Syllabus]]
-## Background
-I dance, compete, and teach around the world. For a little more on my past you can check out my [[Dance History]].
-
-While I still dance tango for fun and teach when asked, most of my current focus is on the swing dances, particularly Shag and Balboa. I'm doing my best to keep a record of all the [[Dance Competition Accomplishments, Awards, and Performances]].
-## Other Stuff
-A few other articles and projects that I've put a smidge of effort for public presentation
-- [[How I Publish This Site - Obsidian with Quartz]]
-- [[Turning a 3,500 Dollar Prius Breakdown into 664 Dollar Success]]
-- [[Map - Tango and Swing Dancing in Seoul Korea]]
-- [[Sewing Projects]]
-- [[Garden Design]]
-
-In my free time I research PMK, practice Spanish, and do mini projects. In the past I ran a roofing company, started a venue rental company, and worked as a cyber security analyst at JPMC.
-
-My vision for the future is to contribute to meaningful work. I am currently learning about how to do that while connecting with people who share similar goals.

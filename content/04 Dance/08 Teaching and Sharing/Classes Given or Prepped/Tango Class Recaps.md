@@ -3,8 +3,11 @@ tags:
   - public
   - tango
 ---
+## 2025 - Now Recaps on YouTube
+I'm doing my best to record the classes I teach and post them on YouTube. See them [here](https://www.youtube.com/playlist?list=PLXY__BX4IJGa7Goz4Y2HO6VaOcxSSLAJJ)!
+## 2018 - 2019 Tango Class Recap Videos
+
 A few class recaps from 2018 and 2019 when we teaching an open to all class in Phoenix at the language school [Interlingua](https://www.azinterlingua.com/). We had a dedicated group of students where we applied the format of teaching moves while emphasizing fundamentals and adding 15 minutes of candy (stage-ish stuff) at the end. 
-## Tango Class Recap Videos
 
 Back hooks
 

@@ -6,6 +6,12 @@ tags:
 author:
   - "@Denise Wei Wei Lwin"
 ---
+- Judo scissor drop
+- outside turn slow mo, to inside, to redirect, to backbend kick
+- pivots to circle slide to promenade
+- back tap boleo to americana to hop to foot wiggle
+- tango scorpion
+
 ![[turn-combo-to-deep-lunge-slide-denise.mov]]
 
 ![[trading-slow-motions-denise.mov]]

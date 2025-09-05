@@ -6,8 +6,7 @@ tags:
 ---
 I'm very fortunate that swing and tango pants share a similar style. This has been a literally years long process to find pants for dancing that look good and fit right. Hoping this will save someone else some pain. If you just want the bullet points, go to the How to Get Men's Pants for Dancing#Conclusion aka TL;DR Get Pants Made|TL;DR.
 
-https://www.instagram.com/reel/C_6ZvAEJYr0/?igsh=MTI3NmQwYnlpNXpqZA==
-## Where's the Waist
+## Where's the Waist?
 Clothes come standard. Bodies do not.
 
 There are three measurements to start with.
@@ -99,6 +98,10 @@ Not all shirts tuck. For this guayabera I opened the shirt and tucked an undersh
 - I get pants from https://www.facebook.com/okiz.baek. He will ship.
 - If in Korea you can also get them from https://www.facebook.com/bbangnim
 - Unless your legs are long, get your pants made at **waist** height.
-- Flood, color, cuff, and pleat to your needs and style.
+- Select flood, color, cuff, and pleat to your needs and style.
 - Fabric will be synthetic, wool is `$$`.
 - Price will be around 120 to 150 USD including shipping.
+
+## Edits
+stuff to add to this article maybe
+https://www.instagram.com/reel/C_6ZvAEJYr0/?igsh=MTI3NmQwYnlpNXpqZA==
