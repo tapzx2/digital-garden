@@ -8,10 +8,24 @@ tags:
 ![[nicholas-2024-triplecrown2.jpg|300]]
 #### 2025 Camp Hollywood, Los Angeles
 - Finalist - Shag Mix and Match
+	- all skate https://www.youtube.com/watch?v=sRAQtjsA9Ks
+	- 1st spotlight https://youtu.be/DylJNRfsMlQ?si=splYJgec6Aevrn-l
+	- 2nd spotlight https://youtu.be/DylJNRfsMlQ?si=suxx1Am32G08irOH&t=325
 - 4th - Am Balboa Strictly
+	- 1st spotlight https://youtu.be/qJb342FsBR4?si=0KtM5ThgZC8MR1cA&t=222
+	- 2nd spotlight https://youtu.be/qJb342FsBR4?si=L9hlM07xMccTuBFG&t=438
 - 4th - Am Classic Lindy
-  
- ![[Pasted image 20250904082030.png|200]] ![[Pasted image 20250904082014.png|200]]  ![[Pasted image 20250904081958.png|200]]
+	- 1st spotlight https://youtu.be/ryXfuidpMj4?si=v2V3z8KSycg7uAwD&t=324
+	- 2nd spotlight https://youtu.be/ryXfuidpMj4?si=f44_FY3NOlZ7ttDG&t=542
+
+Balboa with Bianca
+![[Bianca Yaghoobi and Nicholas Tapia Bring the Heat! Amateur Balboa Prelims Camp Hollywood 2025.mp4]]
+
+Some Photos
+ ![[Pasted image 20250904082030.png|200]] ![[Pasted image 20250904082014.png|200]]  ![[Pasted image 20250904081958.png|200]] ![[Pasted image 20250911064304.png|200]]
+![[Pasted image 20250911064335.png|200]] ![[Pasted image 20250911064414.png|200]]  ![[Pasted image 20250911064432.png|200]] ![[Pasted image 20250911064513.png|200]]
+![[Pasted image 20250911064531.png|200]]
+
 #### 2025 August Teaching
 - Hidden City Ballroom Lindy 1 and 2 - [recaps](https://www.youtube.com/watch?v=ZK2e_qT1V4w&list=PLXY__BX4IJGYV-dkb39WGfNqLC3Zli-pl&index=2)
 - Argentine Tango Ocho Cortado Class - [recap](https://www.youtube.com/watch?v=-8oCduyk7Is)
@@ -28,7 +42,13 @@ tags:
 #### 2025 Valencia Balboa Festival
 - Mix and Match Open - 1st Alternate
 - 2nd - Shag Underground Mix and Match
-	- 2025 VBF ShagSpotlights
+
+Underground Shag Mix and Match with Hannah
+![[shag mm first spot.mp4]]
+![[shag mm second spot.mp4]]
+
+Some social dancing with Grace
+![[2025vbf-patio-nicholas-grace.mp4]]
 #### 2025 Mood For Swing, Tokyo
 - 1st - Open Lindy Hop Mix and Match
 - 1st - [One Minute Showcase](https://www.instagram.com/p/DJL7ilyRmWI/)
@@ -48,7 +68,7 @@ They had me back! An absolute honor to teach at the legendary @Triple Crown stud
 #### 2025 Calbal
 - 1st place Shag Underground Mix and Match
 #### Special Shag Class at biz_WhatAJazz|WhatAJazz with @Egle Shag Master
-Tapia2024ThinkingAboutTheFutureofSocialShag
+[[04 Dance/08 Teaching and Sharing/Classes Given or Prepped/Tapia2024ThinkingAboutTheFutureofSocialShag]]
 #### 2024 Vilnius Shag Fest
 - Advanced Mix and Match - Finalist
 #### Special Lecture

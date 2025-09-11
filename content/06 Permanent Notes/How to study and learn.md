@@ -104,7 +104,7 @@ learning -> result (tie shoe)
 RAIL
 relevance, most effort is wasted because you are ignorant and don't know what's relevant. No knowledge guide rails or guide.
 awareness, aka pleau, gotta make lots of mistakes. But...
-Once you know how to overcome the mistakes, doing it correctly happens by default. 1
+Once you know how to overcome the mistakes, doing it correctly happens by default
 iteration, secure your awarness
 life long, gotta practice or it will decay
 

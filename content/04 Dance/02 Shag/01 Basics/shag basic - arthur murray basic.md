@@ -1,15 +1,15 @@
 ---
 tags:
-  - public
   - shag
+  - public
 source:
   - "[[Styles of the Shag Basic]]"
 author:
   - "[[@Ryan Martin]]"
 ---
-Can make two basics that look really similar, but I would argue are different
-- [[shag basic - shuffle basic]]
-- [[shag basic - stab basic]]
+Foot draws back and toe comes to a point on the floor. Two similar basics, that I would argue are different are related.
+- Not enough toe: [[shag basic - shuffle basic]]
+- Toe emphasis: [[shag basic - stab basic]]
 
 ![[authur-murray-basic.mp4]]
 @Jeremy Otth, @Amanda Pincock
