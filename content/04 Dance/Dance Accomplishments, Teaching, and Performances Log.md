@@ -47,12 +47,11 @@ Some Photos
 Underground Shag Mix and Match with Hannah
 ![[shag mm first spot.mp4]]
 ![[shag mm second spot.mp4]]
-
-Some social dancing with Grace
-![[2025vbf-patio-nicholas-grace.mp4]]
 #### 2025 Mood For Swing, Tokyo
 - 1st - Open Lindy Hop Mix and Match
 - 1st - [One Minute Showcase](https://www.instagram.com/p/DJL7ilyRmWI/)
+
+![[nicholas-nanami.mp4]]
 #### 2025 Asian Balboa Exchange
 - Open Mix and Match 1st Alternate
 - Open Mix and Match B-side Finalist (4th place)
@@ -69,6 +68,11 @@ TapiaRui2025Japan7WeekSeries
 They had me back! An absolute honor to teach at the legendary @Triple Crown studio again!
 #### 2025 Calbal
 - 1st place Shag Underground Mix and Match
+
+#### 2024 Dublin
+Practice and social dancing with the legendary @Rebecca O'Laoire
+
+![[nicholas-rebecca.mp4]]
 #### Special Shag Class at biz_WhatAJazz|WhatAJazz with @Egle Shag Master
 [[04 Dance/08 Teaching and Sharing/Classes Given or Prepped/Tapia2024ThinkingAboutTheFutureofSocialShag]]
 #### 2024 Vilnius Shag Fest
