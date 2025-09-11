@@ -62,6 +62,7 @@ TapiaRui2025Japan7WeekSeries
 - Special Triple Crown Shag Workshop - February 18th 2025
 - Special Triple Crown Shag Workshop - February 25th 2025
 - Special Triple Crown Shag Workshop - March 4th 2025
+
 ![[Pasted image 20241002152039.png|200]]
 
 They had me back! An absolute honor to teach at the legendary @Triple Crown studio again!
@@ -110,6 +111,12 @@ In loc_Seoul finalist for bal hop cup, 3rd in shag strictly, 2nd balboa am m&m, 
 		- heat 1: https://www.youtube.com/watch?v=wa4KYXSK48U
 		- heat 2: 
 	- finals and spotlight: https://www.youtube.com/watch?v=s3iRcCBe048
+
+Shag Strictly with Cherry
+![[shag-spotlight-balhop2024.mp4]]
+
+Mix and Match Lindy Prelims with Jihee
+![[VID_40740419_090927_634.mp4]]
 #### Seoul Performance
 Swing performance at Pie Milonga in loc_Seoul 
 #### 2024 Swinging by the Sound
