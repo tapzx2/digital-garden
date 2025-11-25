@@ -4,6 +4,8 @@ tags:
   - public
 ---
 # Photos and Videos
+Vilnius 2025
+![[Pasted image 20251125092840.png]]
 
 Camp Hollywood 2025
 
@@ -81,35 +83,50 @@ tango at onada:  https://www.facebook.com/share/v/AHj2o3kL4xf7CQVX/?mibextid=xfx
 
 ![[bal-hop-mm.jpg]]
 
-![[shag-photo-haily-holt-pdx-exchange.jpeg]]
+![[Pasted image 20251125091630.png]]
+
+![[Pasted image 20251125092009.png]]
 
 ![[nicholas-hannah-portland-lindy-exchange-2024.png]]
-![[karen_nicholas_swing_hjj.jpeg]]
 
-![[karen_nicholas_swing_hjj2.jpeg]]
+![[Pasted image 20251125092023.png]]
 
-![[karen_nicholas_swing_hjj3.jpeg]]
+![[Pasted image 20251125092043.png]]
 
-![[karen_nicholas_swing_hjj4.jpeg]]
+![[Pasted image 20251125092104.png]]
 
-![[karen_nicholas_swing_hjj5.jpeg]]
+![[Pasted image 20251125092110.png]]
 
-![[karen_nicholas_swing_hjj6.jpeg]]
+![[Pasted image 20251125092114.png]]
 
-![[karen_nicholas_swing_hjj7.jpeg]]
+![[Pasted image 20251125092121.png]]
 
-![[karen_nicholas_swing_hjj8.jpeg]]
+![[Pasted image 20251125092125.png]]
 
-![[karen_nicholas_swing_hjj9.jpeg]]
+![[Pasted image 20251125092131.png]]
 
-![[karen_nicholas_swing_hjj10.jpeg]]
+![[Pasted image 20251125092137.png]]
 
-![[karen_nicholas_swing_hjj11.jpeg]]
+![[Pasted image 20251125092146.png]]
 
-![[karen_nicholas_swing_hjj12.jpeg]]
+![[Pasted image 20251125092151.png]]
 
-![[karen_nicholas_swing_hjj13.jpeg]]
+![[Pasted image 20251125092155.png]]
 
+![[Pasted image 20251125092158.png]]
 
-![[nicholas-christina-jungle-hot-jazz-jamboree-2023.png]]![[nicholas_christina_hjj.jpeg]]![[nicholas_lollishaggers_swing_hjj1.jpeg]]![[nicholas_lollishaggers_swing_hjj2.jpeg]]![[nicholas_lollishaggers_swing_hjj3.jpeg]]![[nicholas_swing_balboa_hjj.jpeg]]
-![[nicholas_swing_balboa_hjj2.jpeg]]![[nicholas_swing_balboa_hjj3.jpeg]]![[nicholas_swing_balboa_hjj4.jpeg]]![[nicholas_swing_balboa_hjj4.jpeg]]![[nicholas_swing_balboa_hjj5.jpeg]]![[nicholas_swing_balboa_hjj6.jpeg]]![[nicholas_swing_balboa_hjj7.jpeg]]![[nicholas_swing_balboa_hjj8.jpeg]]
+![[Pasted image 20251125092202.png]]
+
+![[Pasted image 20251125092208.png]]
+
+![[Pasted image 20251125092214.png]]
+
+![[Pasted image 20251125092220.png]]
+
+![[Pasted image 20251125092229.png]]
+
+![[Pasted image 20251125092234.png]]
+
+![[Pasted image 20251125092237.png]]
+
+![[Pasted image 20251125092242.png]]

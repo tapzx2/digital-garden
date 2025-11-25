@@ -6,6 +6,19 @@ tags:
 *Under construction*, a lot of the pre swing stuff hasn't been added yet!
 
 ![[nicholas-2024-triplecrown2.jpg|300]]
+
+#### 2025 Balboa Workshop with Hannah at What A Jazz
+
+![[Pasted image 20251125094400.png|200]]
+#### 2025 Vilnius Shag Fest
+- "Pure" Shag judge
+- Instructor with Ada Gori and Hannah Manning
+- Advanced MM Finalist
+- Strictly Shag Finalist with Teresa
+#### 2025 Nov Group Classes at WAJ
+- Nov 13: Lindy ELEF
+- Nov 18: Shag and Lindy
+- Nov 25: Shag and Lindy
 #### 2025 Camp Hollywood, Los Angeles
 - Finalist - Shag Mix and Match
 	- all skate https://www.youtube.com/watch?v=sRAQtjsA9Ks
@@ -73,7 +86,7 @@ They had me back! An absolute honor to teach at the legendary @Triple Crown stud
 Practice and social dancing with the legendary @Rebecca O'Laoire
 
 ![[nicholas-rebecca.mp4]]
-#### Special Shag Class at biz_WhatAJazz|WhatAJazz with @Egle Shag Master
+#### Special Shag Class at biz_WhatAJazz|WhatAJazz with @Egle Shag Master Nemickaitė
 [[04 Dance/08 Teaching and Sharing/Classes Given or Prepped/Tapia2024ThinkingAboutTheFutureofSocialShag]]
 #### 2024 Vilnius Shag Fest
 - Advanced Mix and Match - Finalist
@@ -120,7 +133,8 @@ In loc_Seoul finalist for bal hop cup, 3rd in shag strictly, 2nd balboa am m&m, 
 Shag Strictly with Cherry
 ![[shag-spotlight-balhop2024.mp4]]
 
-Mix and Match Lindy Prelims with Jihee
+Mix and Match Lindy Prelims with Jihee!
+
 ![[VID_40740419_090927_634.mp4]]
 #### Seoul Performance
 Swing performance at Pie Milonga in loc_Seoul 
@@ -133,7 +147,6 @@ Special Tokyo Workshop - moving into each others space - June 2024
 #### 2024 Portland Lindy Society Instructor
 Regular instructor of shag at weekly event.
 #### 2023 Hot Jazz Jamboree
-![[nicholas_swing_balboa_hjj8.jpeg|350]]
 
 Second in shag strictly. Second in open mix and match shag. Third in mix and match balboa. Performance with LollyShaggers.
 - Shag strictly 2nd place: https://www.youtube.com/watch?v=mTZNoGHxdA4
@@ -141,8 +154,6 @@ Second in shag strictly. Second in open mix and match shag. Third in mix and mat
 - LollyShaggers video: https://www.youtube.com/watch?v=7ArEkkFx6lk
 - Balboa mix and match Finals 3rd place: https://youtu.be/eKj4BTFvnck?si=y3Bs5OupyIGjrv26&t=363
 #### Portland State Faire 2023
-![[nicholas-hannah-portland-lindy-exchange-2024.png|250]]
-
 Backup Dancer for biz_Rhythm Wrecker Dance Band
 #### 2023 Swingin by the Sound
 Second in advanced shag mix and match: https://www.youtube.com/watch?v=27qjg-onJj4

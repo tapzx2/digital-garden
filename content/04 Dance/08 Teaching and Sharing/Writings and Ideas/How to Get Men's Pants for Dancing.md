@@ -105,3 +105,6 @@ Not all shirts tuck. For this guayabera I opened the shirt and tucked an undersh
 ## Edits
 stuff to add to this article maybe
 https://www.instagram.com/reel/C_6ZvAEJYr0/?igsh=MTI3NmQwYnlpNXpqZA==
+
+belt loop detail to include
+https://www.instagram.com/reel/DOQ9WBACY5X/?utm_source=ig_web_copy_link
